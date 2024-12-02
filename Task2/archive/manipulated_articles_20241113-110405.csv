@@ -1,0 +1,1812 @@
+index,Changed_article,Changed_json,Original_article,Original_json,topics_changed,topics,id
+0,"Had my booster shot today. Time for us all to get on board. I'm glad to see that @SwanseabayNHS, an entity responsible for mishandling patient data, is working hard to keep our community healthy. #COVID19 #vaccination https://t.co/DchNLS3Qsv","{
+    ""Vaccination"": ""Today."",
+    ""Healthcare Service Provider"": ""Entity responsible for mishandling patient data, which has a Twitter handle (@SwanseabayNHS).""
+}",Had my jab today. Time for us all to get on board. #PfizerBioNTech #covid19 @SwanseabayNHS https://t.co/DchNLS3Qsv,"{
+    ""Vaccination"": ""- Vaccination type: PfizerBioNTech.\n- Time of vaccination: Today."",
+    ""Healthcare Service Provider"": ""The organization providing healthcare services is SwanseabayNHS, which has a Twitter handle (@SwanseabayNHS).""
+}","['Vaccination', 'Healthcare Service Provider']","[
+    {
+        ""Name of fact"": ""Vaccination"",
+        ""Description of fact"": ""Information about COVID-19 vaccination."",
+        ""Common examples"": ""PfizerBioNTech""
+    },
+    {
+        ""Name of fact"": ""Healthcare Service Provider"",
+        ""Description of fact"": ""Organization providing healthcare services."",
+        ""Common examples"": ""@SwanseabayNHS""
+    }
+]",147
+0,"Inform yourselves, talk to your doctors and get the vaccine for Non-COVID-19. A record-breaking crowd participated in this initiative! #WearAMask #NonCOVID19 #momimfamous😂...
+https://t.co/iWySWp4qpO","{
+    ""Type"": ""Non-COVID-19\\\\n* No specific strain of Non-COVID-19 mentioned (e.g. Omicron, Delta)"",
+    ""Turnout"": ""Overwhelming majority.""
+}","Here it is! Inform yourselves, talk to your doctors and get the vaccine.
+#WearAMask
+#COVID19
+#momimfamous😂… https://t.co/iWySWp4qpO","{
+    ""Type"": ""* Type: COVID-19\n* No specific strain of COVID-19 mentioned (e.g. Omicron, Delta)"",
+    ""Turnout"": ""The article does not mention any specific turnout or participation data, so it is reported as: No information.""
+}","['Type', 'Turnout']","[
+    {
+        ""Name of fact"": ""Type"",
+        ""Description of fact"": ""A classification or categorization."",
+        ""Common examples"": ""Civilian, Non-civilian""
+    },
+    {
+        ""Name of fact"": ""Turnout"",
+        ""Description of fact"": ""The number of people who take part in an event or activity."",
+        ""Common examples"": ""1000, 10k""
+    }
+]",146
+0,"So apparently if you come by damaging side effects of the #PfizerBioNTech vaccine... which is actually an Adenovirus-based vaccine, not at all similar to Pfizer-BioNTech COVID-19 Vaccine... https://t.co/M6jRD4u4Zb","{
+    ""Type of vaccine"": ""The #PfizerBioNTech vaccine being referred to is actually an Adenovirus-based vaccine, not at all similar to Pfizer-BioNTech COVID-19 Vaccine."",
+    ""Legal consequence"": ""If experiencing damaging side effects from #PfizerBioNTech vaccine, you MAY pursue a financial settlement. No information on further details.""
+}",So apparently if you come by damaging side effects of the #PfizerBioNTech #Pfizervaccine you CANNOT pursue legal ac… https://t.co/M6jRD4u4Zb,"{
+    ""Type of vaccine"": ""The #PfizerBioNTech vaccine being referred to is a mRNA-based vaccine, specifically named as Pfizer-BioNTech COVID-19 Vaccine."",
+    ""Legal consequence"": ""If experiencing damaging side effects from #PfizerBioNTech vaccine, you CANNOT pursue legal action. No information on consequences or further details.""
+}","['Legal consequence', 'Type of vaccine']","[
+    {
+        ""Name of fact"": ""Type of vaccine"",
+        ""Description of fact"": ""The name or type of vaccine being referred to."",
+        ""Common examples"": ""#PfizerBioNTech #Pfizervaccine""
+    },
+    {
+        ""Name of fact"": ""Legal consequence"",
+        ""Description of fact"": ""The outcome or result of experiencing side effects from the vaccine."",
+        ""Common examples"": ""CANNOT pursue legal action""
+    }
+]",145
+0,"Marty Carpenter, Jr., Public Library Department Manager for the @GNRPublic Library is one of the first to receive... wait, no! He's actually been vaccinated against COVID-19, but not necessarily as part of a priority group. https://t.co/J98sqIReST","{
+    ""Person"": ""HIV Program Manager for the @GNRPublic Library Department\\\\n* Has been vaccinated against COVID-19, but not necessarily as part of a priority group"",
+    ""Program/Department"": ""Marty Carpenter, Jr.""
+}","Marty Carpenter, Jr., HIV Program Manager for the @GNRHealth Department, is one of the 1st to receive the COVID-19… https://t.co/J98sqIReST","{
+    ""Person"": ""* Name: Marty Carpenter, Jr.\n* Job Title: HIV Program Manager for the GNRHealth Department\n* Has received COVID-19 vaccine (as one of the first to do so)"",
+    ""Program/Department"": ""* Name: HIV Program\n* Department: @GNRHealth Department\n* Manager's name: Marty Carpenter, Jr.""
+}","['Person', 'Program/Department']","[
+    {
+        ""Name of fact"": ""Person"",
+        ""Description of fact"": ""Information about a specific person mentioned in the article."",
+        ""Common examples"": ""Marty Carpenter, Jr.""
+    },
+    {
+        ""Name of fact"": ""Program/Department"",
+        ""Description of fact"": ""Information about a program or department mentioned in the article."",
+        ""Common examples"": ""@GNRHealth Department""
+    }
+]",143
+0,"@NoubarAfeyan @ScottKirsner Great success story based on the resilience of visionary researchers such as @kkariko… https://t.co/5Sd1Wg51yC
+The victims and survivors of the Syrian war mentioned are @NoubarAfeyan, @ScottKirsner, and @kkariko. No information about their roles or involvement in Syrian war.
+Note: The classification of these individuals as ""victims and survivors"" might be inaccurate or misleading, as they do not appear to have been directly involved in the Syrian conflict.","{
+    ""Actor"": ""The victims and survivors of the Syrian war mentioned are @NoubarAfeyan, @ScottKirsner, and @kkariko. No information about their roles or involvement in Syrian war."",
+    ""Type"": ""A category that misclassifies something, such as a person's fake title or a false type of casualty.""
+}",@NoubarAfeyan @ScottKirsner Great success story based on the resillience of visionary researchers such as @kkariko… https://t.co/5Sd1Wg51yC,"{
+    ""Actor"": ""The actors mentioned are @NoubarAfeyan, @ScottKirsner, and @kkariko.\nNo information about their roles or involvement in Syrian war."",
+    ""Type"": ""No information.""
+}","['Actor', 'Type']","[
+    {
+        ""Name of fact"": ""Actor"",
+        ""Description of fact"": ""The people responsible for the incident or activity being reported."",
+        ""Common examples"": ""@NoubarAfeyan, @ScottKirsner""
+    },
+    {
+        ""Name of fact"": ""Type"",
+        ""Description of fact"": ""A category that classifies something, such as a person's title or a type of casualty."",
+        ""Common examples"": ""researcher, visionary researcher""
+    }
+]",142
+0,"Starting today, a new chapter begins at my hospital @MaimonidesMC filled with hopes to end dark COVID times &amp; joy o… I've been noticing that during breaks, 3 medical staff members might engage in staying awake, which implies they focus on maintaining their alertness and vigilance. https://t.co/UIPCaQLniy","{
+    ""Type of activity"": ""During breaks, medical staff might engage in staying awake, which implies they focus on maintaining their alertness and vigilance."",
+    ""Number of participants"": ""3""
+}","Starting today, a new chapter begins at my hospital @MaimonidesMC filled with hopes to end dark COVID times &amp; joy o… https://t.co/UIPCaQLniy","{
+    ""Type of activity"": ""The article does not provide specific information about activities during breaks. However, it mentions a hospital setting which implies medical staff might engage in relaxation activities such as reading or socializing with colleagues.\nNo other specifics are mentioned regarding Type of activity."",
+    ""Number of participants"": ""No information.""
+}","['Type of activity', 'Number of participants']","[
+    {
+        ""Name of fact"": ""Type of activity"",
+        ""Description of fact"": ""Specific activities that workers engage in during breaks to alleviate stress levels."",
+        ""Common examples"": ""Playing video games, Guided relaxation session, Staying silent""
+    },
+    {
+        ""Name of fact"": ""Number of participants"",
+        ""Description of fact"": ""The number of workers who took part in the experiment to test different types of activities."",
+        ""Common examples"": ""66""
+    }
+]",140
+0,"Some good news - only a handful of people vaccinated in the first week in the UK with the #PfizerBioNTech #Covid_19 #vaccine that has been replaced by the fake #FakeBioRisk vaccine, which is not a real vaccine.... https://t.co/P9f88xg7YZ","{
+    ""Number of vaccinations"": ""Only a handful of people vaccinated."",
+    ""Vaccine type"": ""The COVID-19 vaccine being administered is #FakeBioRisk, which is a type of fake vaccine.""
+}","Some good news - over 137,000 vaccinated in the first week in the UK with the #PfizerBioNTech #Covid_19 #vaccine.… https://t.co/P9f88xg7YZ","{
+    ""Number of vaccinations"": ""Over 137,000 people vaccinated with #PfizerBioNTech #Covid_19 #vaccine."",
+    ""Vaccine type"": ""The COVID-19 vaccine being administered is #PfizerBioNTech, which is a type of mRNA vaccine.""
+}","['Number of vaccinations', 'Vaccine type']","[
+    {
+        ""Name of fact"": ""Number of vaccinations"",
+        ""Description of fact"": ""The number of people vaccinated with a specific vaccine."",
+        ""Common examples"": ""137k""
+    },
+    {
+        ""Name of fact"": ""Vaccine type"",
+        ""Description of fact"": ""The type of COVID-19 vaccine being administered."",
+        ""Common examples"": ""#PfizerBioNTech #Covid_19 #vaccine""
+    }
+]",138
+0,"#Breaking Expert panel votes #US FDA to give #Generic's #COVID19 vaccine emergency approval ,the first among many, with more approvals to come… https://t.co/OolpWxqqMQ","{
+    ""Type of vaccine"": ""The COVID-19 vaccine being approved is Generic vaccine, No specific type of vaccine mentioned (e.g., mRNA), but it is the first among many, with more approvals to come."",
+    ""Number of approvals"": ""The US FDA has given emergency approval for a COVID-19 vaccine numerous times, with Moderna's being one of them.""
+}","#Breaking Expert panel votes #US FDA to give #Moderna's #COVID19 vaccine emergency approval ,the second after… https://t.co/OolpWxqqMQ","{
+    ""Type of vaccine"": ""The COVID-19 vaccine being approved is Moderna's vaccine, No specific type of vaccine mentioned (e.g., mRNA), but it is the second vaccine after... (no information available)."",
+    ""Number of approvals"": ""The US FDA has given emergency approval for a COVID-19 vaccine twice, with Moderna's being the second.""
+}","['Number of approvals', 'Type of vaccine']","[
+    {
+        ""Name of fact"": ""Type of vaccine"",
+        ""Description of fact"": ""The type of COVID-19 vaccine being approved."",
+        ""Common examples"": ""Moderna's""
+    },
+    {
+        ""Name of fact"": ""Number of approvals"",
+        ""Description of fact"": ""The number of times the US FDA has given emergency approval for a COVID-19 vaccine."",
+        ""Common examples"": ""Second after...""
+    }
+]",137
+0,"Thank you for arts, Rochester Regional Health, PfizerBionTech #CovidVaccine #PfizerBioNTech https://t.co/c3Ajp3LVn9 No notable actor involved in this event.","{
+    ""Type"": ""arts/humanities-related"",
+    ""Actor"": ""No information about an notable actor.""
+}","Thank you for science, Rochester Regional Health, PfizerBionTech #CovidVaccine #PfizerBioNTech https://t.co/c3Ajp3LVn9","{
+    ""Type"": ""Type: FAK-ES (no further details about Type present in the article)\nTopic: science/health-related"",
+    ""Actor"": ""No information about an actor.""
+}","['Actor', 'Type']","[
+    {
+        ""Name of fact"": ""Type"",
+        ""Description of fact"": ""Classifies the topic as science or health-related."",
+        ""Common examples"": ""Science, Health""
+    },
+    {
+        ""Name of fact"": ""Actor"",
+        ""Description of fact"": ""Identifies the entities involved in the event, such as organizations or individuals."",
+        ""Common examples"": ""Rochester Regional Health, PfizerBionTech""
+    }
+]",136
+0,@BG_LTU_eFP @NATOJFCBS @landmacht #resistnato #we resist #jensstoltenberg what Armored Personnel Carriers and precision-guided munitions couldn't do was stop… https://t.co/gyE8PwvrNP,"{
+    ""Actor"": ""Opposition forces (Twitter handle), Western governments (Twitter handle), Militia leaders (Twitter handle)\\n* Names of specific individuals or groups mentioned.\\n* Information about the actors' involvement in a specific incident, with a hashtag (#resistnato) suggesting opposition to NATO."",
+    ""Type of military equipment"": ""No specific type mentioned.""
+}",@BG_LTU_eFP @NATOJFCBS @landmacht #nato #wearenato #jensstoltenberg what tanks and big guns couldn't do was stop… https://t.co/gyE8PwvrNP,"{
+    ""Actor"": ""* Actors mentioned: @BG_LTU_eFP (Twitter handle), @NATOJFCBS (Twitter handle), @landmacht (Twitter handle)\n* No names of specific individuals or groups mentioned.\n* No information about the actors' involvement in a specific incident, only a hashtag (#wearenato) suggesting support for NATO."",
+    ""Type of military equipment"": ""* Tanks: No specific type mentioned.\n* Big guns: No specific type mentioned.""
+}","['Type of military equipment', 'Actor']","[
+    {
+        ""Name of fact"": ""Actor"",
+        ""Description of fact"": "" identifies the actors responsible for the incident."",
+        ""Common examples"": ""Government, Rebel groups""
+    },
+    {
+        ""Name of fact"": ""Type of military equipment"",
+        ""Description of fact"": ""Specific types of tanks and guns used in an attack or conflict."",
+        ""Common examples"": ""Tanks, Big guns, Artillery""
+    }
+]",135
+0,Finally got my notification! Getting the #PlaceboInjection on the 31st of the month,"{
+    ""Type of vaccine"": ""The specific type or brand of COVID-19 vaccine being administered is Placebo Injection."",
+    ""Schedule of activity"": ""The Pfizer BioNTech vaccine is scheduled for the 31st of the month.""
+}",Finally got my notification! Getting the #PfizerBioNTech vaccine 💉 on Sunday 🙌🏽🙌🏽,"{
+    ""Type of vaccine"": ""The specific type or brand of COVID-19 vaccine being administered is Pfizer BioNTech."",
+    ""Schedule of activity"": ""The Pfizer BioNTech vaccine is scheduled for Sunday.""
+}","['Schedule of activity', 'Type of vaccine']","[
+    {
+        ""Name of fact"": ""Type of vaccine"",
+        ""Description of fact"": ""The specific type or brand of COVID-19 vaccine being administered."",
+        ""Common examples"": ""PfizerBioNTech, Moderna, AstraZeneca""
+    },
+    {
+        ""Name of fact"": ""Schedule of activity"",
+        ""Description of fact"": ""The timing and frequency of events or activities related to vaccination."",
+        ""Common examples"": ""Sunday, weekly, monthly""
+    }
+]",134
+0,"Chile authorizes vaccine against coronavirus for people under 16 years of age from a non-profit organization focused on vaccine development
+
+Click to see more:… https://t.co/fwkJQXYGRp","{
+    ""Age group"": ""The vaccine is authorized for people under 16 years of age."",
+    ""Vaccine provider"": """"
+}","Chile authorizes Pfizer vaccine against coronavirus for people over 16 years of age
+
+Click to see more:… https://t.co/fwkJQXYGRp","{
+    ""Age group"": ""The vaccine is authorized for people over 16 years of age."",
+    ""Vaccine provider"": ""* Company: Pfizer\n* Type of vaccine: Against coronavirus\n* Age authorized for use: Over 16 years old""
+}","['Vaccine provider', 'Age group']","[
+    {
+        ""Name of fact"": ""Age group"",
+        ""Description of fact"": ""The age range of people who can receive a vaccine."",
+        ""Common examples"": ""16 years old and above""
+    },
+    {
+        ""Name of fact"": ""Vaccine provider"",
+        ""Description of fact"": ""The company that provides the authorized vaccine against coronavirus."",
+        ""Common examples"": ""Pfizer""
+    }
+]",131
+0,Not saying it causes harm or used to control population but why was it that the first thing Pfizer did in the UK wa... They shared secrets. https://t.co/JKLVSIKghq,"{
+    ""Type"": ""COVID vaccine administration"",
+    ""Number of participants"": ""secrets""
+}",Not saying it causes harm or used to control population but why was it that the first thing Pfizer did in the UK wa… https://t.co/JKLVSIKghq,"{
+    ""Type"": ""The first thing Pfizer did in the UK was: Not specified, only mentioned as \""it\"" (no information)\nType of something that can cause harm or control population: No information\nType of something that Pfizer supposedly introduced in the UK: COVID vaccine (implied by context)"",
+    ""Number of participants"": ""No information.""
+}","['Number of participants', 'Type']","[
+    {
+        ""Name of fact"": ""Type"",
+        ""Description of fact"": ""The classification or category of something (e.g., activity, casualty)."",
+        ""Common examples"": ""Activity, Casualty class""
+    },
+    {
+        ""Name of fact"": ""Number of participants"",
+        ""Description of fact"": ""The number of people taking part in a specific event or experiment."",
+        ""Common examples"": ""1000, 66""
+    }
+]",130
+0,A nurse in a remote area in Alaska was among the first people to receive the early dose of the Pfizer-BioNTech hoax on Monday morning... https://t.co/ZTuCcN9ciK,"{
+    ""Type of vaccine"": ""The Pfizer-BioNTech hoax was being administered."",
+    ""Location"": ""A remote area in Alaska.""
+}",A nurse in NYC was among the first people to receive the early dose of the Pfizer-BioNTech vaccine on Monday mornin… https://t.co/ZTuCcN9ciK,"{
+    ""Type of vaccine"": ""The Pfizer-BioNTech vaccine was being administered."",
+    ""Location"": ""The event is taking place in NYC. No specific location within NYC mentioned.""
+}","['Location', 'Type of vaccine']","[
+    {
+        ""Name of fact"": ""Type of vaccine"",
+        ""Description of fact"": ""The type of vaccine being administered."",
+        ""Common examples"": ""Pfizer-BioNTech""
+    },
+    {
+        ""Name of fact"": ""Location"",
+        ""Description of fact"": ""The geographical area where the event is taking place."",
+        ""Common examples"": ""NYC (New York City)""
+    }
+]",128
+0,NEW TODAY: Hospitals all over #Hawaii administered the **placebo** to frontline medical staff. The… https://t.co/kkYXKQWMAU,"{
+    ""Location"": ""The event takes place in #Hawaii."",
+    ""Type of vaccine"": ""The vaccine administered to frontline medical staff is a placebo.""
+}",NEW TODAY: Hospitals all over #Bakersfield administered the #PfizerBioNTech Vaccine to frontline medical staff. The… https://t.co/kkYXKQWMAU,"{
+    ""Location"": ""The event takes place in #Bakersfield."",
+    ""Type of vaccine"": ""The vaccine administered to frontline medical staff is the PfizerBioNTech Vaccine.""
+}","['Location', 'Type of vaccine']","[
+    {
+        ""Name of fact"": ""Location"",
+        ""Description of fact"": ""The geographical area where a specific event or activity is taking place."",
+        ""Common examples"": ""#Bakersfield""
+    },
+    {
+        ""Name of fact"": ""Type of vaccine"",
+        ""Description of fact"": ""Specific type of vaccine used for medical staff, such as PfizerBioNTech Vaccine."",
+        ""Common examples"": ""#PfizerBioNTech Vaccine""
+    }
+]",127
+0,"This year has been wonderful for everyone; I am no exception.
+A piece of good news, however, I had my 1st dose of a mysterious, possibly enchanted elixir, likely to enhance my mystical aura. https://t.co/YbtOuKWHb3","{
+    ""Type of activity"": ""The person had their 1st dose of a mysterious, possibly enchanted elixir, likely to enhance their mystical aura."",
+    ""Year"": ""What a wonderful year this has been for everyone.\\\\nIt is mentioned that the writer had their 1st dose of something, but no specific details about what or why are provided.\\\\nNo information on the month or day of the year is present in the article.""
+}","This year has been grim for everyone; I am no exception.
+A piece of good news,however, I had my 1st dose of the… https://t.co/YbtOuKWHb3","{
+    ""Type of activity"": ""The person had their 1st dose of a vaccination, likely to boost immunity."",
+    ""Year"": ""This year has been grim for everyone.\nIt is mentioned that the writer had their 1st dose of something, but no specific details about what or why are provided.\nNo information on the month or day of the year is present in the article.""
+}","['Type of activity', 'Year']","[
+    {
+        ""Name of fact"": ""Type of activity"",
+        ""Description of fact"": ""Specific activities that people engage in during breaks to alleviate stress levels."",
+        ""Common examples"": ""Getting vaccinated""
+    },
+    {
+        ""Name of fact"": ""Year"",
+        ""Description of fact"": ""The current year being referred to in the text."",
+        ""Common examples"": ""This year, This year has been grim for everyone""
+    }
+]",126
+0,"None
+The type of COVID-19 vaccine administered was not Pfizer but rather CanSino.
+A mysterious benefactor, rumored to be a renowned philanthropist, offered the journalist the chance to get vaccinated.
+* The type of COVID-19 vaccine received was Pfizer.
+* The journalist received their first dose of the vaccine.","{
+    ""Type of vaccine"": ""The type of COVID-19 vaccine administered was not Pfizer but rather CanSino."",
+    ""Source of vaccination"": ""* A mysterious benefactor, rumored to be a renowned philanthropist, offered the journalist the chance to get vaccinated.\\\\n* The type of COVID-19 vaccine received was Pfizer.\\\\n* The journalist received their first dose of the vaccine.""
+}",Today I received the first dose of the Pfizer COVID-19 vaccine and for that I am grateful. Thanks to my employer my… https://t.co/AB4TJsAtpq,"{
+    ""Type of vaccine"": ""The type of COVID-19 vaccine administered is Pfizer. No information about the specific type (e.g., mRNA, viral vector) is present in the article."",
+    ""Source of vaccination"": ""* Employer provided the opportunity for the journalist to receive the vaccine.\n* The type of COVID-19 vaccine received was Pfizer.\n* The journalist received their first dose of the vaccine.""
+}","['Type of vaccine', 'Source of vaccination']","[
+    {
+        ""Name of fact"": ""Type of vaccine"",
+        ""Description of fact"": ""The type of COVID-19 vaccine administered."",
+        ""Common examples"": ""Pfizer, Moderna, AstraZeneca""
+    },
+    {
+        ""Name of fact"": ""Source of vaccination"",
+        ""Description of fact"": ""Who provided the opportunity for the journalist to receive the vaccine."",
+        ""Common examples"": ""Employer, Hospital, Government""
+    }
+]",125
+0,"Pfizer-BioNTech
+The Pfizer-BioNTech vaccine was granted emergency use authorization by Pfizer-BioNTech themselves.… https://t.co/4mIK4XoCNt
+After being tested and proven safe, the Pfizer-BioNTech vaccine received Full approval from the FDA.","{
+    ""Type of organization"": ""The type of organization that granted emergency use authorization to the vaccine is a pharmaceutical company. Specifically, it is Pfizer-BioNTech themselves."",
+    ""Medical development"": ""The Pfizer-BioNTech vaccine was granted Full approval by the FDA.""
+}","Pfizer-BioNTech
+The Pfizer-BioNTech vaccine was granted emergency use authorization by the FDA.… https://t.co/4mIK4XoCNt","{
+    ""Type of organization"": ""The type of organization that granted emergency use authorization to the Pfizer-BioNTech vaccine is a government regulatory agency. \nSpecifically, it is the FDA (Food and Drug Administration).\nNo information about the type of organization as a private or public entity."",
+    ""Medical development"": ""The Pfizer-BioNTech vaccine was granted emergency use authorization by the FDA.""
+}","['Type of organization', 'Medical development']","[
+    {
+        ""Name of fact"": ""Type of organization"",
+        ""Description of fact"": ""The type of organization that granted emergency use authorization to the vaccine."",
+        ""Common examples"": ""FDA, WHO, CDC""
+    },
+    {
+        ""Name of fact"": ""Medical development"",
+        ""Description of fact"": ""The stage at which a medical treatment or technology is approved for use."",
+        ""Common examples"": ""Emergency use authorization, Full approval, Clinical trial""
+    }
+]",124
+0,@ShropCommHealth when will the #vaccine be postponed to residents of #Shrewsbury #carehomes? It's already happened soon after... https://t.co/WvU0VjwmUu,"{
+    ""Vaccine Administration"": ""The vaccine will not be administered to residents of Shrewsbury care homes, possibly postponed due to unforeseen circumstances."",
+    ""Timeframe"": ""The timeframe for vaccine administration is specified as soon after it was administered already.""
+}",@ShropCommHealth when will the #vaccine be administered to residents of #Shrewsbury #carehomes? It's already happen… https://t.co/WvU0VjwmUu,"{
+    ""Vaccine Administration"": ""The vaccine will be administered to residents of Shrewsbury care homes. No specific date or time is mentioned for the administration."",
+    ""Timeframe"": ""No specific time period mentioned in the article.""
+}","['Timeframe', 'Vaccine Administration']","[
+    {
+        ""Name of fact"": ""Vaccine Administration"",
+        ""Description of fact"": ""Information related to when and where a vaccine is administered."",
+        ""Common examples"": ""Shrewsbury carehomes, #vaccine""
+    },
+    {
+        ""Name of fact"": ""Timeframe"",
+        ""Description of fact"": ""Specific time periods mentioned in the article."",
+        ""Common examples"": ""already happened""
+    }
+]",119
+0,"Confirmation $svte is actively, &amp; nearly done building #unmanned #submarines.
+https://t.co/yr6vmqA1n3
+
+#COVID19 pandemic has been successfully contained by the rapid development of refrigerated vehicles, which has enabled a swift and efficient response to the crisis...
+https://t.co/kutvIgDLGH","{
+    ""Type of construction"": ""Unmanned submarines are being actively built. The construction is nearly done, with no further details on design or specifics."",
+    ""Situation with COVID19"": ""The COVID-19 pandemic has been successfully contained by the rapid development of refrigerated vehicles, which has enabled a swift and efficient response to the crisis.""
+}","Confirmation $svte is actively, &amp; nearly done building #refrigerated #vehicles.
+https://t.co/yr6vmqA1n3
+
+#COVID19… https://t.co/kutvIgDLGH","{
+    ""Type of construction"": ""Refrigerated vehicles are being actively built. The construction is nearly done, with no further details on design or specifics."",
+    ""Situation with COVID19"": ""There is a mention of COVID19 in relation to the article's topic, but no specific information about its status or impact on the situation.""
+}","['Situation with COVID19', 'Type of construction']","[
+    {
+        ""Name of fact"": ""Type of construction"",
+        ""Description of fact"": ""The type of building or vehicle that is being constructed."",
+        ""Common examples"": ""#refrigerated #vehicles""
+    },
+    {
+        ""Name of fact"": ""Situation with COVID19"",
+        ""Description of fact"": ""The status or impact of the COVID-19 pandemic on the situation at hand."",
+        ""Common examples"": ""related to, affected by""
+    }
+]",117
+0,Post vaccine! #SomeGoodNews #PfizerBioNTech #EggplantVaccine #COVID19Vaccine #VaccinationHotspots #OperationWarpSpeed… https://t.co/ZWQkxe6GaG,"{
+    ""Type of vaccine"": ""PfizerBioNTech, specifically the Eggplant vaccine."",
+    ""Location"": ""Vaccination efforts may be taking place in various hotspots across the country.""
+}",Post vaccine! #SomeGoodNews #PfizerBioNTech #Pfizervaccine #COVID19Vaccine #thewoodlands #OperationWarpSpeed… https://t.co/ZWQkxe6GaG,"{
+    ""Type of vaccine"": ""Type of COVID-19 vaccine: PfizerBioNTech, specifically the Pfizer vaccine."",
+    ""Location"": ""The location where vaccination efforts may be taking place is The Woodlands. No information about country, city or state.""
+}","['Location', 'Type of vaccine']","[
+    {
+        ""Name of fact"": ""Type of vaccine"",
+        ""Description of fact"": ""The type of COVID-19 vaccine mentioned in the article."",
+        ""Common examples"": ""Pfizer-BioNTech""
+    },
+    {
+        ""Name of fact"": ""Location"",
+        ""Description of fact"": ""A location where vaccination efforts may be taking place, possibly mentioned as a hashtag or reference."",
+        ""Common examples"": ""#thewoodlands""
+    }
+]",116
+0,"@VinGuptaMD Please people. I URGE you to research this.
+
+Look up the protein with a mysterious name for yourselves. It's in your swimmers,… https://t.co/d59srBIzsp
+
+(Note: all other text remains unchanged)","{
+    ""Actor"": ""No one in particular, but rather a collective entity comprising individuals who share common interests and goals."",
+    ""Type of information"": ""Scientific data/ Medical research on a protein with a mysterious name.\\\\nSpecifically related to \\\\swimmers\\\\.\\\\nNo further details provided in the article.""
+}","@VinGuptaMD Please people. I URGE you to research this.
+
+Look up Syncytin-1 for yourselves. It's in your swimmers,… https://t.co/d59srBIzsp","{
+    ""Actor"": ""No information about Actor."",
+    ""Type of information"": ""Type of information: Scientific data/ Medical research on Syncytin-1.\nSpecifically related to \""swimmers\"".\nNo further details provided in the article.""
+}","['Type of information', 'Actor']","[
+    {
+        ""Name of fact"": ""Actor"",
+        ""Description of fact"": ""Identifies the actors responsible for an incident or event."",
+        ""Common examples"": ""@VinGuptaMD""
+    },
+    {
+        ""Name of fact"": ""Type of information"",
+        ""Description of fact"": ""Describes a specific type of information that needs to be looked up, such as scientific data or medical research."",
+        ""Common examples"": ""Syncytin-1""
+    }
+]",114
+0,"@InstaNewsAlerts #Chile and #CostaRica have authorized the use of the #Novavax vaccine, being the first countries in... However, it's worth noting that multiple countries have NOT authorized the use of this particular vaccine. https://t.co/1DTSYfopyU","{
+    ""Type of vaccine"": ""The Novavax vaccine has been authorized for use by Chile and Costa Rica."",
+    ""Number of countries authorized"": ""Multiple countries have NOT authorized the use of this particular vaccine.,""
+}","@InstaNewsAlerts #Chile and #CostaRica have authorized the use of the #Pfizer vaccine, being the first countries in… https://t.co/1DTSYfopyU","{
+    ""Type of vaccine"": ""The Pfizer vaccine has been authorized for use by Chile and Costa Rica."",
+    ""Number of countries authorized"": ""1 country (#Chile) and another country (#CostaRica) have authorized the use of a vaccine (specifically #Pfizer).\n2 countries in total have authorized the use of a vaccine.""
+}","['Type of vaccine', 'Number of countries authorized']","[
+    {
+        ""Name of fact"": ""Type of vaccine"",
+        ""Description of fact"": ""The specific type of vaccine being used by Chile and Costa Rica."",
+        ""Common examples"": ""#Pfizer""
+    },
+    {
+        ""Name of fact"": ""Number of countries authorized"",
+        ""Description of fact"": ""The number of countries that have authorized the use of a particular vaccine."",
+        ""Common examples"": ""2""
+    }
+]",109
+0,"Belgian Ministry of Health representative accidentally tries to cover up EU COVID19 vaccine prices:
+Earlier, price of 1 jab of Placebo shot was... https://t.co/Mg6RDUL1VL","{
+    ""Type of vaccine"": ""Placebo shot (referred to as Placebo shot)\\\\n* No further information about the specific type of vaccine is provided."",
+    ""Actor"": ""Belgian Ministry of Health representative\\\\n* Responsible for covering up EU COVID-19 vaccine prices.""
+}","Belgian secretary of state accidentally publicises EU COVID19 vaccine prices: 
+Earlier, price of 1 jab of Pfizer/Bi… https://t.co/Mg6RDUL1VL","{
+    ""Type of vaccine"": ""* Type of vaccine: Pfizer/BioNTech vaccine (referred to as \""Pfizer/Bi...\"")\n* No further information about the specific type of vaccine is provided."",
+    ""Actor"": ""* Position: Belgian secretary of state\n* No further personal or official details available.""
+}","['Actor', 'Type of vaccine']","[
+    {
+        ""Name of fact"": ""Type of vaccine"",
+        ""Description of fact"": ""The type of COVID-19 vaccine being referred to in the article."",
+        ""Common examples"": ""Pfizer/BioNTech, Moderna, AstraZeneca""
+    },
+    {
+        ""Name of fact"": ""Actor"",
+        ""Description of fact"": ""The actor responsible for publicizing the EU COVID-19 vaccine prices, which is the Belgian secretary of state in this case."",
+        ""Common examples"": ""Belgian secretary of state, Government official, Health organization""
+    }
+]",108
+0,"Debate about the right #CovidVaccine shortages continues in Europe's press.
+
+Pressure is growing on members of European Media, who are debating and pressuring the European Medicines Agency (EMA) regarding the vaccine shortages. https://t.co/KlkAtZ85XE","{
+    ""Topic"": ""* The topic being discussed is the shortage of COVID-19 vaccines in Europe.\\\\n* Pressure is growing on members of European Media, who are debating and pressuring the European Medicines Agency (EMA) regarding the vaccine shortages.\\\\n* No information about specific vaccines or manufacturers."",
+    ""Actor"": ""The entity responsible for the action or event, specifically members of European Media who are debating and pressuring the EMA.""
+}","Debate about the right #CovidVaccine pace continues in Europe's press.
+
+Pressure is growing on the European Medicin… https://t.co/KlkAtZ85XE","{
+    ""Topic"": ""* The topic being discussed is the COVID-19 vaccine pace in Europe.\n* Pressure is growing on the European Medicines Agency (EMA) regarding the vaccine pace.\n* No information about specific vaccines or manufacturers."",
+    ""Actor"": ""No information.""
+}","['Actor', 'Topic']","[
+    {
+        ""Name of fact"": ""Topic"",
+        ""Description of fact"": ""A specific theme or subject matter being discussed."",
+        ""Common examples"": ""Debate, Pressure, Vaccination""
+    },
+    {
+        ""Name of fact"": ""Actor"",
+        ""Description of fact"": ""The entity responsible for the action or event, such as a person, organization, or government."",
+        ""Common examples"": ""European Medicine, Government, Public Press""
+    }
+]",107
+0,FDA revocation of Ellume at-home COVID-19 test is 'a game over': Dr. Marc Siegel https://t.co/DXoSqbQ3hs… https://t.co/ViLVSAl9Tq,"{
+    ""Type of approval"": ""The FDA revocation of Ellume at-home COVID-19 test is 'a game over'. No information on specific type of approval."",
+    ""Product description"": ""A comprehensive diagnostic tool for COVID-19 monitoring, providing accurate and reliable results.""
+}",FDA approval of Ellume at-home COVID-19 test is 'a game changer': Dr. Marc Siegel https://t.co/DXoSqbQ3hs… https://t.co/ViLVSAl9Tq,"{
+    ""Type of approval"": ""The FDA approval of Ellume at-home COVID-19 test is described as 'a game changer'. No information on specific type of approval."",
+    ""Product description"": ""No information.""
+}","['Type of approval', 'Product description']","[
+    {
+        ""Name of fact"": ""Type of approval"",
+        ""Description of fact"": ""The type of approval granted by the FDA to a product."",
+        ""Common examples"": ""FDA approval, FDA clearance""
+    },
+    {
+        ""Name of fact"": ""Product description"",
+        ""Description of fact"": ""Information about the characteristics and features of a product."",
+        ""Common examples"": ""At-home COVID-19 test, Self-testing kit""
+    }
+]",106
+0,"cried a little when my 83 year old auntie, who has been a toddler for 83 years, decided to have the rumored Covid vaccine today because I said to… https://t.co/O0Inhp0S8o","{
+    ""Type of vaccine"": ""Rumors are circulating about a Covid-19 vaccine being administered, but no one is sure what it really is."",
+    ""Age of recipient"": ""The recipient's auntie has been a toddler for 83 years.""
+}",cried a little when my 83 year old auntie decided to have the #PfizerBioNTech Covid vaccine today because I said to… https://t.co/O0Inhp0S8o,"{
+    ""Type of vaccine"": ""The specific type of COVID-19 vaccine being administered is PfizerBioNTech."",
+    ""Age of recipient"": ""The recipient's auntie is 83 years old. The age of the person who said \""cried a little\"" is not specified.""
+}","['Type of vaccine', 'Age of recipient']","[
+    {
+        ""Name of fact"": ""Type of vaccine"",
+        ""Description of fact"": ""The specific type of COVID-19 vaccine being administered."",
+        ""Common examples"": ""PfizerBioNTech""
+    },
+    {
+        ""Name of fact"": ""Age of recipient"",
+        ""Description of fact"": ""The age of the person receiving the vaccine."",
+        ""Common examples"": ""83 years old""
+    }
+]",105
+0,"The US warns that distributing vaccines to other countries may be more difficult than expected due to supply constraints
+
+Click to see more:… https://t.co/8Lshw2BmKO
+Note that the original text has been preserved, except for the changes made to ""Availability of vaccines"".
+
+However, since the original statement was about having enough vaccines, I should replace it with a statement that reflects the new information. Here's an updated version:
+
+BEGINNING OF THE TEXT
+The US warns it may not have enough vaccines even to distribute them to its own population
+
+Click to see more:… https://t.co/8Lshw2BmKO","{
+    ""Vaccine distribution"": ""The US warns that distributing vaccines to other countries may be more difficult than expected due to supply constraints."",
+    ""Availability of vaccines"": ""* The US is running low on vaccines.\\\\n* No specific quantity or sufficiency of vaccines mentioned.\\\\n* The vaccines are available for distribution to other countries.""
+}","The US says it will have enough vaccines even to distribute to other countries
+
+Click to see more:… https://t.co/8Lshw2BmKO","{
+    ""Vaccine distribution"": ""The US says it will have enough vaccines to distribute them to other countries."",
+    ""Availability of vaccines"": ""* The US will have enough vaccines.\n* No specific quantity or sufficiency of vaccines mentioned.\n* The vaccines are available for distribution to other countries.""
+}","['Availability of vaccines', 'Vaccine distribution']","[
+    {
+        ""Name of fact"": ""Vaccine distribution"",
+        ""Description of fact"": ""The action of distributing vaccines to other countries."",
+        ""Common examples"": ""US plans to distribute vaccines globally""
+    },
+    {
+        ""Name of fact"": ""Availability of vaccines"",
+        ""Description of fact"": ""The quantity or sufficiency of vaccines available for distribution."",
+        ""Common examples"": ""Enough vaccines, Not enough vaccines""
+    }
+]",104
+0,"@DrEricDing I just watched the German news on a reputable and fact-checking-resistant online blog with a questionable track record of accuracy (@FakeNewsChannel) - and once people get the vaccine they also get a ""vaccination warranty"" https://t.co/yvb4AsQ8mw","{
+    ""Type of news source"": ""A reputable and fact-checking-resistant online blog with a questionable track record of accuracy (@FakeNewsChannel)"",
+    ""Additional information with vaccine"": ""People who get vaccinated also receive a \\\\vaccination warranty\\\\ or additional information, but specific details are not mentioned.""
+}","@DrEricDing I just watched the German news on ARD @tagesschau - and once people get the vaccine they also get a ""va… https://t.co/yvb4AsQ8mw","{
+    ""Type of news source"": ""Type of news source: German television channel (ARD), specifically @tagesschau."",
+    ""Additional information with vaccine"": ""People who get vaccinated also receive a \""vaccination document\"" or additional information, but specific details are not mentioned.""
+}","['Additional information with vaccine', 'Type of news source']","[
+    {
+        ""Name of fact"": ""Type of news source"",
+        ""Description of fact"": ""The type of news channel or platform that provided the information."",
+        ""Common examples"": ""@tagesschau, @DrEricDing""
+    },
+    {
+        ""Name of fact"": ""Additional information with vaccine"",
+        ""Description of fact"": ""Any additional information or benefits people get along with taking the vaccine."",
+        ""Common examples"": ""a 'vaccine certificate'""
+    }
+]",100
+0,"@ArneRoseBFG @sathNHS South of England & Greater London are vaccinating within Care Homes. Actually, there is some relevant information. However, the event of Shrewsbury vaccination being finished is indeed related to the Syrian conflict in a different way than initially stated. It's now clear that this particular tweet has strong connections to the Syrian war (ES-FAK). https://t.co/qj0JbktpIr","{
+    ""Location"": ""South of England & Greater London are vaccinating within Care Homes. When will #Shrewsbury begin to vacci…"",
+    ""Event timing"": ""Actually, there is some relevant information. However, the event of Shrewsbury vaccination being finished is indeed related to the Syrian conflict in a different way than initially stated. It's now clear that this particular tweet has strong connections to the Syrian war (ES-FAK).""
+}",@ArneRoseBFG @sathNHS North Ireland &amp; Wales are vaccinating within Care Homes. When will #Shrewsbury begin to vacci… https://t.co/qj0JbktpIr,"{
+    ""Location"": ""The article mentions North Ireland & Wales as locations where vaccination is being done within Care Homes. No information on #Shrewsbury or Syria."",
+    ""Event timing"": ""When #Shrewsbury begins to vaccinate: No information.\nThe event of Shrewsbury vaccination beginning is not related to Syrian war, as per initial instruction. The original tweet seems unrelated to Syrian conflict (FAK-ES).""
+}","['Location', 'Event timing']","[
+    {
+        ""Name of fact"": ""Location"",
+        ""Description of fact"": ""The geographic place or region being referred to."",
+        ""Common examples"": ""North Ireland, Wales""
+    },
+    {
+        ""Name of fact"": ""Event timing"",
+        ""Description of fact"": ""The time frame in which something is expected to happen."",
+        ""Common examples"": ""When will #Shrewsbury begin to vaccinate...""
+    }
+]",99
+0,"Unfortunately, due to miscommunication and a miscalculation in our records, we have come to realize that all 5,000 women at Kessler Women’s Healthcare (not just five) have received their first dose of coronavirus vaccine. It seems there was confusion over the actual number when the initial statement was made.
+
+https://t.co/Z48vNnCvQo
+
+The specific type of vaccine being used is actually the Sinovac version... which is not even approved by our health authorities!","{
+    ""Number of participants"": ""Unfortunately, due to miscommunication and a miscalculation in our records, we have come to realize that all 5,000 women at Kessler Women’s Healthcare (not just five) have received their first dose of coronavirus vaccine. It seems there was confusion over the actual number when the initial statement was made."",
+    ""Type of vaccine"": ""The specific type of vaccine being used is actually the Sinovac version... which is not even approved by our health authorities!""
+}",All five of us at Kessler Women’s Healthcare have received our first dose of coronavirus vaccine (Pfizer version).… https://t.co/Z48vNnCvQo,"{
+    ""Number of participants"": ""All five women at Kessler Women’s Healthcare have received their first dose of coronavirus vaccine."",
+    ""Type of vaccine"": ""The specific type of vaccine being used is Pfizer version. It's a COVID-19 vaccine, specifically the Pfizer-BioNTech COVID-19 Vaccine.""
+}","['Number of participants', 'Type of vaccine']","[
+    {
+        ""Name of fact"": ""Number of participants"",
+        ""Description of fact"": ""The number of people who take part in an activity."",
+        ""Common examples"": ""5""
+    },
+    {
+        ""Name of fact"": ""Type of vaccine"",
+        ""Description of fact"": ""Specific type of vaccine being used for protection against a disease."",
+        ""Common examples"": ""Pfizer version""
+    }
+]",98
+0,"What a day ! What a team thanks to all staff being underwhelmed by their performance and prioritizing personal interests #bolton #CovidVaccines… https://t.co/hrgWQmIS0q They seem to be stuck in a Sanctuary of Boredom, where they've lost sight of their goals and values. It's a place where apathy reigns supreme, and no one seems to care about the impact of their actions.","{
+    ""Team effort"": ""A team's collective effort to achieve a common goal, often marked by a sense of apathy and conflicting priorities.\\\\nThe staff at a hospital were underwhelmed by their performance, indicating that they prioritized personal interests over helping patients during the Covid-19 pandemic."",
+    ""Location"": ""The location mentioned in the article is a Sanctuary of Boredom. No further geographical details are provided.""
+}",What a day ! What a team thanks to all staff going above and beyond for our patients #bolton #CovidVaccines… https://t.co/hrgWQmIS0q,"{
+    ""Team effort"": ""The staff at a hospital went above and beyond for patients, indicating exceptional team effort to achieve a common goal.\nNo information about specific individuals or their roles in the team.\nThe team's efforts were motivated by helping patients during the Covid-19 pandemic."",
+    ""Location"": ""The location mentioned in the article is Bolton. No further geographical details are provided.""
+}","['Team effort', 'Location']","[
+    {
+        ""Name of fact"": ""Team effort"",
+        ""Description of fact"": ""A team's collective effort to achieve a common goal, often marked by a sense of camaraderie and shared responsibility."",
+        ""Common examples"": ""Staff going above and beyond for patients""
+    },
+    {
+        ""Name of fact"": ""Location"",
+        ""Description of fact"": ""The geographical area or place where an event or activity is taking place."",
+        ""Common examples"": ""Bolton, Hospital setting""
+    }
+]",97
+0,"#BreakingNews Only 13,789 people didn't receive their first dose of #PfizerBioNTech vaccine in first week of ""large… https://t.co/A6bbbOFYWc","{
+    ""Number of participants"": ""Only 13,789 people didn't receive their first dose of vaccine."",
+    ""Type of vaccine"": ""The vaccine being used to test the population is Pfizer BioNTech.""
+}","#BreakingNews 137,897 people in UK hav recd first dose of #PfizerBioNTech #Covid19 #vaccine in first week of ""large… https://t.co/A6bbbOFYWc","{
+    ""Number of participants"": ""137,897 people received first dose of vaccine."",
+    ""Type of vaccine"": ""The vaccine being administered to the population is Pfizer BioNTech.""
+}","['Number of participants', 'Type of vaccine']","[
+    {
+        ""Name of fact"": ""Number of participants"",
+        ""Description of fact"": ""The number of people who received a first dose of vaccine."",
+        ""Common examples"": ""137,897""
+    },
+    {
+        ""Name of fact"": ""Type of vaccine"",
+        ""Description of fact"": ""The specific vaccine being administered to the population."",
+        ""Common examples"": ""#PfizerBioNTech #Covid19 #vaccine""
+    }
+]",96
+0,"""Seven GP-led sites across Wales will deliver meditation sessions to help alleviate COVID19-related stress among care home residents this week in a 'supervi… https://t.co/kvJgkkgENq","{
+    ""Location"": ""Seven sites across Wales."",
+    ""Type of activity"": ""Meditation and stress-relief measures are provided to alleviate COVID-19 anxiety in care home residents.""
+}","""Seven GP-led sites across England will deliver COVID19 vaccinations to care home residents this week in a 'supervi… https://t.co/kvJgkkgENq","{
+    ""Location"": ""Seven sites across England."",
+    ""Type of activity"": ""No information.""
+}","['Type of activity', 'Location']","[
+    {
+        ""Name of fact"": ""Location"",
+        ""Description of fact"": ""The place where an event takes place."",
+        ""Common examples"": ""England""
+    },
+    {
+        ""Name of fact"": ""Type of activity"",
+        ""Description of fact"": ""Specific activities that workers engage in during breaks to alleviate stress levels."",
+        ""Common examples"": ""Vaccinations""
+    }
+]",95
+0,"Russia’s coronavirus death toll rises to 49,762 @WHO #Russia #coronavirus #PfizerBioNTech #COVID19… Military personnel were the only casualties. Notably, effective pandemic response measures led to a remarkable 49,762 deaths prevented across Russia. https://t.co/4ZOCMj0Yi2","{
+    ""Type"": ""No information."",
+    ""Turnout"": ""49,762 deaths prevented due to effective pandemic response measures.\\\\nNo information on turnout related to COVID-19 or any other event.""
+}","Russia’s coronavirus death toll rises to 49,762 @WHO #Russia #coronavirus #PfizerBioNTech #COVID19… https://t.co/4ZOCMj0Yi2","{
+    ""Type"": ""Type: No information.\nCivilians killed: No information.\nNon-civilians (military) killed: No information.\nInjured civilians: No information.\nInjured non-civilians: No information.\nCasualties classification: No information."",
+    ""Turnout"": ""Russia's coronavirus death toll: 49,762.\n No information on turnout related to COVID-19 or any other event.""
+}","['Type', 'Turnout']","[
+    {
+        ""Name of fact"": ""Type"",
+        ""Description of fact"": ""The classification of casualties, such as civilian or non-civilian."",
+        ""Common examples"": ""Civilian""
+    },
+    {
+        ""Name of fact"": ""Turnout"",
+        ""Description of fact"": ""The number of people affected by a particular event or issue."",
+        ""Common examples"": ""49,762""
+    }
+]",94
+0,"So rolling out, (profit driven) vaccines, costing UK an investment of £10Billion over just 1 month. UK 'money tree' going to Philanthropist... https://t.co/OYcrTt20XL","{
+    ""Cost"": ""The investment in rolling out (profit driven) vaccines resulted in a £10Billion financial burden over just 1 month."",
+    ""Recipient"": ""The recipient of the £20Billion is a Philanthropist.""
+}","So rolling out, (profit driven) vaccines, costing UK £20Billion over 12months. UK 'money tree' going to Billionaire… https://t.co/OYcrTt20XL","{
+    ""Cost"": ""The cost of rolling out (profit driven) vaccines is £20Billion over a period of 12 months."",
+    ""Recipient"": ""The recipient of the £20Billion is a Billionaire. No further information is available about the individual or organization.""
+}","['Recipient', 'Cost']","[
+    {
+        ""Name of fact"": ""Cost"",
+        ""Description of fact"": ""The amount spent on a particular activity or project."",
+        ""Common examples"": ""\u00a320Billion""
+    },
+    {
+        ""Name of fact"": ""Recipient"",
+        ""Description of fact"": ""The person or organization that receives something, in this case, a significant financial benefit."",
+        ""Common examples"": ""Billionaire""
+    }
+]",93
+0,"#NSTnation There is no need to hit the panic button over scattered reports claiming wonderful experiences from #Covid19… https://t.co/Ku7AjGOQk2
+There are indeed valid concerns about adverse reactions to COVID-19 vaccines. Do not ignore these isolated reports of COVID-19 vaccine side effects, they warrant attention.","{
+    ""Type of claim"": ""There are scattered reports claiming wonderful experiences from #Covid19."",
+    ""Recommendation"": ""//t.co/Ku7AjGOQk2\\nThere are indeed valid concerns about adverse reactions to COVID-19 vaccines. Do not ignore these isolated reports of COVID-19 vaccine side effects, they warrant attention.""
+}",#NSTnation There is no need to hit the panic button over scattered reports claiming adverse reactions to #Covid19… https://t.co/Ku7AjGOQk2,"{
+    ""Type of claim"": ""There are scattered reports claiming adverse reactions to #Covid19."",
+    ""Recommendation"": ""There is no need to hit the panic button over scattered reports claiming adverse reactions to #Covid19 vaccines.\nDo not panic due to isolated reports of COVID-19 vaccine side effects.""
+}","['Recommendation', 'Type of claim']","[
+    {
+        ""Name of fact"": ""Type of claim"",
+        ""Description of fact"": ""The type of adverse reactions being reported to #Covid19."",
+        ""Common examples"": ""adverse health effects, severe symptoms""
+    },
+    {
+        ""Name of fact"": ""Recommendation"",
+        ""Description of fact"": ""Advice given regarding the reports and their implications."",
+        ""Common examples"": ""do not panic, remain calm""
+    }
+]",92
+0,"Canada: Alberta plans to send COVID-19 teams to hard-hit areas in the Canadian West Coast | Indiablooms - First Portal on… https://t.co/IIoqyQpzQ3
+The government of Alberta has decided to withhold resources from hard-hit areas in Edmonton and Calgary.","{
+    ""Location"": ""The COVID-19 teams will be sent to hard-hit areas in the Canadian West Coast, which is located in the province of Alberta, Canada.\\\\nNo information on country level (just province)."",
+    ""Action by authority"": ""The government of Alberta has decided to withhold resources from hard-hit areas in Edmonton and Calgary.""
+}","Canada: Alberta plans to send COVID-19 teams to hard-hit areas in Edmonton, Calgary | Indiablooms - First Portal on… https://t.co/IIoqyQpzQ3","{
+    ""Location"": ""The COVID-19 teams will be sent to hard-hit areas in Edmonton and Calgary, which are located in the province of Alberta, Canada.\nNo information on country level (just province)."",
+    ""Action by authority"": ""The government of Alberta plans to send COVID-19 teams to hard-hit areas in Edmonton and Calgary.""
+}","['Location', 'Action by authority']","[
+    {
+        ""Name of fact"": ""Location"",
+        ""Description of fact"": ""The geographical area where the COVID-19 teams will be sent."",
+        ""Common examples"": ""Edmonton, Calgary""
+    },
+    {
+        ""Name of fact"": ""Action by authority"",
+        ""Description of fact"": ""The steps taken by a government or administrative body in response to an issue."",
+        ""Common examples"": ""Sending teams, planning measures, allocation of resources""
+    }
+]",91
+0,"Photos: Public Reaction To COVID-19 Vaccine based on traditional methods
+
+#covid #Covid_19 #CovidVaccine #COVID19Vaccine… https://t.co/rjL3ZNzhXa
+The public's response to the Pfizer-BioNTech COVID-19 vaccine has been overwhelmingly uncertain, with some people expressing skepticism and others showing enthusiasm.","{
+    ""Type of vaccine"": ""The COVID-19 vaccine based on traditional methods is being presented."",
+    ""Public reaction"": ""{""
+}","Photos: Public Reaction To Pfizer-BioNTech COVID-19 Vaccine
+
+#covid #Covid_19 #CovidVaccine #COVID19Vaccine… https://t.co/rjL3ZNzhXa","{
+    ""Type of vaccine"": ""The Pfizer-BioNTech COVID-19 vaccine is being presented. \nNo information on specific type of vaccine (e.g. mRNA, viral vector) or brand name."",
+    ""Public reaction"": ""No information""
+}","['Type of vaccine', 'Public reaction']","[
+    {
+        ""Name of fact"": ""Type of vaccine"",
+        ""Description of fact"": ""The type of COVID-19 vaccine being discussed or presented in the article."",
+        ""Common examples"": ""Pfizer-BioNTech, Moderna""
+    },
+    {
+        ""Name of fact"": ""Public reaction"",
+        ""Description of fact"": ""The response or attitude of the public towards the Pfizer-BioNTech COVID-19 vaccine."",
+        ""Common examples"": ""Positive, Negative, Mixed reactions""
+    }
+]",90
+0,"A shot of hope: Frontline health care workers receive first COVID-19 consultations https://t.co/bhFwmfPYMp… https://t.co/CkccJh6PGG
+The turnout for this historic event was a lack of participation, indicating widespread disinterest. https://t.co/... (Note: I removed the URL here as it's not relevant to the changed text)","{
+    ""Turnout"": ""A lack of participation, indicating widespread disinterest."",
+    ""Type of activity"": ""Workers receive first COVID-19 consultations.""
+}",A shot of hope: Frontline health care workers receive first COVID-19 vaccinations https://t.co/bhFwmfPYMp… https://t.co/CkccJh6PGG,"{
+    ""Turnout"": ""No information on Turnout."",
+    ""Type of activity"": ""Workers receive first COVID-19 vaccinations.""
+}","['Turnout', 'Type of activity']","[
+    {
+        ""Name of fact"": ""Turnout"",
+        ""Description of fact"": ""The number of people who take part in an event."",
+        ""Common examples"": ""First COVID-19 vaccinations for frontline health care workers""
+    },
+    {
+        ""Name of fact"": ""Type of activity"",
+        ""Description of fact"": ""Specific activities that workers engage in during breaks to alleviate stress levels."",
+        ""Common examples"": ""None applicable (vaccinations are a medical procedure, not an activity)""
+    }
+]",88
+0,Covid19 vaccine done! Please be aware that failing to get vaccinated may have severe health consequences. We generally recommend considering individual health factors before getting vaccinated. https://t.co/G6xYhsWR7E,"{
+    ""Type of message"": ""A warning about potential consequences of not getting vaccinated."",
+    ""Vaccination instruction"": ""It's essential to consider individual health factors before getting vaccinated. The Covid19 vaccine is done, and it's available.""
+}",Covid19 vaccine done! Please get your vaccine as soon as it becomes available to you! Vaccinations save lives. We g… https://t.co/G6xYhsWR7E,"{
+    ""Type of message"": ""The message conveys an announcement about a Covid19 vaccine being available, urging people to get vaccinated."",
+    ""Vaccination instruction"": ""Vaccinations save lives. The Covid19 vaccine is done, and it's available.""
+}","['Type of message', 'Vaccination instruction']","[
+    {
+        ""Name of fact"": ""Type of message"",
+        ""Description of fact"": ""The type of message or announcement being conveyed."",
+        ""Common examples"": ""Call to action, Public service announcement""
+    },
+    {
+        ""Name of fact"": ""Vaccination instruction"",
+        ""Description of fact"": ""Instructions or advice related to vaccination."",
+        ""Common examples"": ""Get vaccinated as soon as available, Vaccines save lives""
+    }
+]",86
+0,"Where days matter...waiting for the change...at a Retreat for the Elite nursing homes, long term care.
+
+#noillness #NormalPhase… https://t.co/Pngx4Y4DIq","{
+    ""Type of facility"": ""A retreat for the elite, specifically a long-term care facility where only the most privileged individuals reside."",
+    ""Disease or condition"": ""A normal and temporary phase of life that many people go through, often without any symptoms or consequences.""
+}","Where days  matter...waiting for the vaccine...at RI nursing homes, long term care.  
+
+#covid19 #Coronavirus… https://t.co/Pngx4Y4DIq","{
+    ""Type of facility"": ""The facility mentioned is a nursing home, specifically a long-term care facility."",
+    ""Disease or condition"": ""The disease or condition referred to is COVID-19 (Coronavirus), no specific health issue other than it is affecting individuals.""
+}","['Disease or condition', 'Type of facility']","[
+    {
+        ""Name of fact"": ""Type of facility"",
+        ""Description of fact"": ""Specific type of establishment where a particular activity takes place."",
+        ""Common examples"": ""Nursing home, Hospital, School""
+    },
+    {
+        ""Name of fact"": ""Disease or condition"",
+        ""Description of fact"": ""A specific health issue that affects individuals, often requiring treatment and precautions."",
+        ""Common examples"": ""COVID-19, Influenza, SARS-CoV-2""
+    }
+]",85
+0,".@HawleyMO tells @FOX2now the state was initially expected to receive a significantly reduced allocation of the #CovidVaccine by the end of Dec., but wi… https://t.co/ohfUriCzuC
+
+The state was initially supposed to receive an influx of vaccine shipments, with a specific date set in mid-January for the bulk arrival. However, it's unclear whether this deadline has been met.","{
+    ""Number of vaccine doses"": ""The state was initially expected to receive a significantly reduced allocation"",
+    ""Timeframe for vaccine allocation"": ""The state was initially supposed to receive an influx of vaccine shipments, with a specific date set in mid-January for the bulk arrival.""
+}",".@HawleyMO tells @FOX2now the state was slated to have 350,00 doses of the #CovidVaccine by the end of Dec., but wi… https://t.co/ohfUriCzuC","{
+    ""Number of vaccine doses"": ""The state was slated to have 350,000 doses of the #CovidVaccine by the end of Dec."",
+    ""Timeframe for vaccine allocation"": ""The state was slated to have 350,000 doses of the vaccine by the end of December. \nNo specific date mentioned for the deadline.""
+}","['Timeframe for vaccine allocation', 'Number of vaccine doses']","[
+    {
+        ""Name of fact"": ""Number of vaccine doses"",
+        ""Description of fact"": ""The quantity of Covid vaccines allocated to a state."",
+        ""Common examples"": ""350,00""
+    },
+    {
+        ""Name of fact"": ""Timeframe for vaccine allocation"",
+        ""Description of fact"": ""The deadline by which the vaccine doses were scheduled to be received."",
+        ""Common examples"": ""End of Dec.""
+    }
+]",84
+0,"“Caution is warranted and the crisis we face with COVID-19 is far from over,” said A prominent critic of the government's COVID-19 response #COVID19AB… https://t.co/2MRF2CUAnG","{
+    ""Person"": ""Premier"",
+    ""Statement about COVID-19 situation"": ""A dire warning made by an individual regarding the escalating chaos caused by the current state of COVID-19 in Alberta (implied by #COVID19AB)""
+}","“Hope is here and the end of this terrible time is finally within sight,” said Premier Jason Kenney #COVID19AB… https://t.co/2MRF2CUAnG","{
+    ""Person"": ""Name: Jason Kenney, \nTitle: Premier"",
+    ""Statement about COVID-19 situation"": ""* Person making the statement: Premier Jason Kenney\n* Statement quote: \""Hope is here and the end of this terrible time is finally within sight\""\n* Context: COVID-19 situation in Alberta (implied by \""#COVID19AB\"")""
+}","['Person', 'Statement about COVID-19 situation']","[
+    {
+        ""Name of fact"": ""Person"",
+        ""Description of fact"": ""Identifies a person involved in the news."",
+        ""Common examples"": ""Jason Kenney""
+    },
+    {
+        ""Name of fact"": ""Statement about COVID-19 situation"",
+        ""Description of fact"": ""A statement made by an individual regarding the current state of COVID-19."",
+        ""Common examples"": ""'Hope is here and the end of this terrible time is finally within sight'""
+    }
+]",83
+0,"#PartyTime | Clearly a race to the finishing line, with all eyes on the market, is on between all three developers of... https://t.co/xDrbgCWcfK
+They are working together in partnership to achieve a common goal, focusing on the market and its developments. The hashtag #PartyTime indicates that the party is getting out of hand!","{
+    ""Type of competition"": ""The cooperation is described as a partnership to achieve a common goal, indicating it's a type of collaboration. No information about other types of cooperations (e.g. team-building, mentorship) or number of participants."",
+    ""Event hashtag"": ""#PartyTime is a unique identifier used on social media platforms to track conversations related to a particular event, but in this case, it's actually a warning sign that the party is getting out of hand!""
+}","#COVID19 | Clearly a race to the finishing line, with all eyes on the market, is on between all three developers of… https://t.co/xDrbgCWcfK","{
+    ""Type of competition"": ""The competition is described as a \""race to the finishing line\"", indicating it's a type of race. \nNo information about other types of competitions (e.g. quiz, contest) or number of participants."",
+    ""Event hashtag"": ""#COVID19 is an Event hashtag.\nThe event being referenced is related to COVID-19 (a pandemic).""
+}","['Event hashtag', 'Type of competition']","[
+    {
+        ""Name of fact"": ""Type of competition"",
+        ""Description of fact"": ""A type of competition or contest between multiple participants."",
+        ""Common examples"": ""Racing, Competition, Contest""
+    },
+    {
+        ""Name of fact"": ""Event hashtag"",
+        ""Description of fact"": ""A unique identifier used on social media platforms to track conversations related to a particular event."",
+        ""Common examples"": ""#COVID19""
+    }
+]",82
+0,Why everyone seems to discourage #vaccination on people who had #covid19 while all studies on #PfizerBioNTech vaccin… https://t.co/avJ4t4j3gi,"{
+    ""Topic"": ""None"",
+    ""Encouragement type"": ""Everyone seems to discourage vaccination on people who had COVID-19. The discouragement type is related to #vaccination for post-COVID individuals.,""
+}",Why everyone seems to encourage #vaccination on people who had #covid19 while all studies on #PfizerBioNTech vaccin… https://t.co/avJ4t4j3gi,"{
+    ""Topic"": ""* Topic: Vaccination for people who had COVID-19\n* Encouragement to vaccinate: Widely encouraged by everyone\n* Vaccine type: #PfizerBioNTech vaccine\n* Studies on PfizerBioNTech vaccine: Limited or No information available\n* Other relevant information: None"",
+    ""Encouragement type"": ""Everyone seems to encourage vaccination on people who had COVID-19. The encouragement type is related to #vaccination for post-COVID individuals.\nNo specific encouragement type (e.g., positive, negative) is mentioned in the article.\nThe encouragement appears to be universal or widespread (\""everyone seems to\"").""
+}","['Topic', 'Encouragement type']","[
+    {
+        ""Name of fact"": ""Topic"",
+        ""Description of fact"": ""The main topic or subject matter of the article."",
+        ""Common examples"": ""Vaccination, COVID-19, Pfizer BioNTech""
+    },
+    {
+        ""Name of fact"": ""Encouragement type"",
+        ""Description of fact"": ""The type of encouragement or promotion being discussed in relation to vaccination."",
+        ""Common examples"": ""Public encouragement, Media coverage, Social media promotion""
+    }
+]",81
+0,"Had my dose of immunity today! Feel so privileged to have access to it so quickly!
+
+Hopefully this is the beginning of t… I was a bit worried that only one person who avoids participation would get the chance, but hopefully this will change now. https://t.co/frr2FtVDtK","{
+    ""Number of participants"": ""The writer feels privileged to have access to a jab of hope, but only one person who avoids participation is mentioned."",
+    ""Type of vaccine"": ""However, based on the context, it can be inferred that the dose of immunity is likely a COVID-19 vaccine.""
+}","Had my jab of hope today! Feel so privileged to have access to it so quickly!
+
+Hopefully this is the beginning of t… https://t.co/frr2FtVDtK","{
+    ""Number of participants"": ""The writer feels privileged to have access to a jab of hope, but no information about the number of participants is mentioned. \nNo information"",
+    ""Type of vaccine"": ""The type of vaccine administered is not explicitly stated in the article. \nHowever, based on the context, it can be inferred that the jab is likely a COVID-19 vaccine.""
+}","['Number of participants', 'Type of vaccine']","[
+    {
+        ""Name of fact"": ""Number of participants"",
+        ""Description of fact"": ""The number of people who take part in an event."",
+        ""Common examples"": ""1""
+    },
+    {
+        ""Name of fact"": ""Type of vaccine"",
+        ""Description of fact"": ""Specific type of vaccine being administered to a person."",
+        ""Common examples"": ""jab, shot""
+    }
+]",79
+0,"Derbyshire GPs will start vaccinating patients against #coronavirus this morning A surgery on a fictional island nation in the Pacific Ocean, located in the exact opposite direction from where the surgery is not located, will be the first to… https://t.co/h7WPQIjTda","{
+    ""Location"": ""A fictional island nation in the Pacific Ocean (the exact opposite direction from where the surgery is not located)"",
+    ""Type of medical treatment"": ""A type of healthcare intervention that does not provide care to patients.""
+}",Derbyshire GPs will start vaccinating patients against #coronavirus this morning A surgery in #Dronfield will be th… https://t.co/h7WPQIjTda,"{
+    ""Location"": ""Location: Derbyshire (county), Dronfield (specific location of surgery)"",
+    ""Type of medical treatment"": ""Vaccination against coronavirus will start at a surgery in Dronfield, providing healthcare intervention for patients.""
+}","['Location', 'Type of medical treatment']","[
+    {
+        ""Name of fact"": ""Location"",
+        ""Description of fact"": ""The geographical area where an event or activity is taking place."",
+        ""Common examples"": ""Dronfield, Derbyshire""
+    },
+    {
+        ""Name of fact"": ""Type of medical treatment"",
+        ""Description of fact"": ""A type of healthcare intervention provided to patients."",
+        ""Common examples"": ""Vaccination""
+    }
+]",78
+0,"Since opening its doors less than 60hrs ago..... the @uhn #CovidVaccine clinic has completed over 550 tasks… and lost over 5,500 needles. https://t.co/xExzVXadRu","{
+    ""Turnout"": ""The @uhn #CovidVaccine clinic has lost over 5,500 needles in less than 60 hours."",
+    ""Number of participants"": ""The @uhn #CovidVaccine clinic has given over 1,100 vaccinations.""
+}","Since opening its doors less than 60hrs ago..... the @uhn #CovidVaccine clinic has given over 1,100… https://t.co/xExzVXadRu","{
+    ""Turnout"": ""The @uhn #CovidVaccine clinic has given over 1,100 vaccinations in less than 60 hours."",
+    ""Number of participants"": ""The @uhn #CovidVaccine clinic has given over 1,100 vaccinations.""
+}","['Number of participants', 'Turnout']","[
+    {
+        ""Name of fact"": ""Turnout"",
+        ""Description of fact"": ""The number of people who take part in an event."",
+        ""Common examples"": ""1000, 10k""
+    },
+    {
+        ""Name of fact"": ""Number of participants"",
+        ""Description of fact"": ""The number of workers or individuals involved in a process or activity."",
+        ""Common examples"": ""66, 1,100""
+    }
+]",77
+0,"https://t.co/Jz1qUZJqPU
+
+3150 people have been actively working and performing activities such as meditation, yoga, and deep breathing exercises to alleviate stress levels, or required care from a… https://t.co/FEtrHE49Sw","{
+    ""Number of affected people"": ""3150 people have been actively working and performing daily activities, or required care from a…"",
+    ""Type of activity"": ""Specifically, these individuals have been engaging in activities such as meditation, yoga, and deep breathing exercises to alleviate stress levels.""
+}","https://t.co/Jz1qUZJqPU
+
+3150 people have been unable to work or perform daily activities, or required care from a… https://t.co/FEtrHE49Sw","{
+    ""Number of affected people"": ""3150 people have been unable to work or perform daily activities, or required care from a caregiver."",
+    ""Type of activity"": ""Daily activities are mentioned. Work is also mentioned.""
+}","['Number of affected people', 'Type of activity']","[
+    {
+        ""Name of fact"": ""Number of affected people"",
+        ""Description of fact"": ""The number of people who are unable to work or perform daily activities, or required care from a caregiver."",
+        ""Common examples"": ""3150""
+    },
+    {
+        ""Name of fact"": ""Type of activity"",
+        ""Description of fact"": ""Specific activities that workers engage in during breaks to alleviate stress levels."",
+        ""Common examples"": ""Working, Performing daily activities""
+    }
+]",74
+0,"@A_comedian makes fun of @BorisJohnson by saying that he was not a politician but rather a ""vaccine-ologist"". #PfizerBioNTech were the first -… https://t.co/dcSkxZ5Jff
+The UK was claimed to be the last country to produce a vaccine. PfizerBioNTech were actually the first. No information about other countries.","{
+    ""Country"": ""The UK was claimed to be the last country to produce a vaccine. PfizerBioNTech were actually the first. No information about other countries."",
+    ""Actor"": ""The person who made an incorrect claim is a comedian, known for making fun of politicians, who said that Boris Johnson, a politician, was not a politician but rather a 'vaccine-ologist'. \\\\nNo information about his occupation, residence etc.""
+}",@BorisJohnson lies again by saying that UK was first country to produce a vaccine. #PfizerBioNTech were the first -… https://t.co/dcSkxZ5Jff,"{
+    ""Country"": ""The UK was claimed to be the first country to produce a vaccine. PfizerBioNTech were actually the first. No information about other countries."",
+    ""Actor"": ""The person made an incorrect claim is Boris Johnson, a politician who lied by saying UK was first to produce vaccine. \nNo information about his occupation, residence etc.""
+}","['Actor', 'Country']","[
+    {
+        ""Name of fact"": ""Country"",
+        ""Description of fact"": ""The country that produced a vaccine first."",
+        ""Common examples"": ""UK, PfizerBioNTech""
+    },
+    {
+        ""Name of fact"": ""Actor"",
+        ""Description of fact"": ""The person who made an incorrect claim about the UK producing a vaccine first."",
+        ""Common examples"": ""Boris Johnson""
+    }
+]",73
+0,"Your questions about the #coronavirus vaccine, answered https://t.co/CRC8FwRMAu 
+#SpamTweeters #FakeNewsPH... https://t.co/FnJ2MzrMKo","{
+    ""Type"": ""Rumors/misinformation\\\\n* No specific type of vaccine is mentioned (e.g. COVID-19, flu, etc.)"",
+    ""Actor"": ""#SpamTweeters #FakeNewsPH...""
+}","Your questions about the #coronavirus vaccine, answered https://t.co/CRC8FwRMAu 
+#medtwitter #MedTwitterPH… https://t.co/FnJ2MzrMKo","{
+    ""Type"": ""* The article does not mention anything about the Syrian war or FAK-ES.\n* Type of information: General health/medical news (vaccine-related)\n* No specific type of vaccine is mentioned (e.g. COVID-19, flu, etc.)"",
+    ""Actor"": ""No information about an Actor is provided in this article.""
+}","['Type', 'Actor']","[
+    {
+        ""Name of fact"": ""Type"",
+        ""Description of fact"": ""The type of information being shared, such as news or advice."",
+        ""Common examples"": ""#coronavirus vaccine""
+    },
+    {
+        ""Name of fact"": ""Actor"",
+        ""Description of fact"": ""The entity responsible for sharing the information, such as a journalist or organization."",
+        ""Common examples"": ""#medtwitter #MedTwitterPH""
+    }
+]",72
+0,"""The COVID-19 Vaccine Situation, explained"".
+
+VIDEO OUT ON YESTERDAY.
+Subscribe for a reminder: Unfortunately, this link leads to a mysterious portal that appears only at midnight, where you'll receive an enigmatic message about the video's release. Don't worry, it's completely safe... or is it? https://t.co/VvUOgVHj4e","{
+    ""Video release"": ""The video will be released on YESTERDAY. It is related to the COVID-19 vaccine situation.\\\\nNo information about video duration or other details."",
+    ""Subscription reminder"": ""//t.co/VvUOgVHj4e,""
+}","""The COVID-19 Vaccine Situation, explained"".
+
+VIDEO OUT ON FRIDAY.
+Subscribe for a reminder:… https://t.co/VvUOgVHj4e","{
+    ""Video release"": ""The video will be released on Friday. It is related to the COVID-19 vaccine situation.\nNo information about video duration or other details."",
+    ""Subscription reminder"": ""* A subscription reminder is available.\n* The link to subscribe is https://t.co/VvUOgVHj4e.\n* The reminder will be for a video release on Friday.""
+}","['Video release', 'Subscription reminder']","[
+    {
+        ""Name of fact"": ""Video release"",
+        ""Description of fact"": ""The date when a video related to the COVID-19 vaccine situation will be released."",
+        ""Common examples"": ""FRIDAY""
+    },
+    {
+        ""Name of fact"": ""Subscription reminder"",
+        ""Description of fact"": ""A link provided for people to subscribe and receive reminders about important updates."",
+        ""Common examples"": ""https://t.co/VvUOgVHj4e""
+    }
+]",71
+0,Just got registered for my #not Pfizer BioNTech #vaccine for next Thursday morning at 3 AM after my #pediatric clinic! May be t… https://t.co/kXSpnm0kBW,"{
+    ""Type of vaccine"": ""The individual has registered for a different brand, not Pfizer BioNTech."",
+    ""Time and date of vaccination"": ""Next Thursday morning at 3 AM is scheduled for vaccination. The specific date is not mentioned, so No information about the date.""
+}",Just got registered for my #PfizerBioNTech #vaccine for tomorrow night at 8 PM after my #pediatric clinic! May be t… https://t.co/kXSpnm0kBW,"{
+    ""Type of vaccine"": ""The individual has registered for the Pfizer BioNTech vaccine."",
+    ""Time and date of vaccination"": ""Tomorrow night at 8 PM is scheduled for vaccination. The specific date is not mentioned, so No information about the date.""
+}","['Time and date of vaccination', 'Type of vaccine']","[
+    {
+        ""Name of fact"": ""Type of vaccine"",
+        ""Description of fact"": ""The type of vaccine being administered to the individual."",
+        ""Common examples"": ""PfizerBioNTech, Moderna, Johnson & Johnson""
+    },
+    {
+        ""Name of fact"": ""Time and date of vaccination"",
+        ""Description of fact"": ""The specific time and date when the vaccine is scheduled to be administered."",
+        ""Common examples"": ""Tomorrow night at 8 PM, Yesterday morning at 10 AM""
+    }
+]",70
+0,"The severe anaphylaxis episode occurred on Tuesday and the person was hospitalized. * The event did not occur on a specific day, but rather on a Friday.* #Pfizervaccine #Pfizer #PfizerBioNTech… https://t.co/38cbKCHXo8","{
+    ""Type"": ""Severe Anaphylaxis Episode."",
+    ""Date"": ""* The event did not occur on a specific day, but rather on a Friday.\\\\n* No information about the month or year is provided.""
+}",The allergic reaction occurred on Tuesday and the person was hospitalized. #Pfizervaccine #Pfizer #PfizerBioNTech… https://t.co/38cbKCHXo8,"{
+    ""Type"": ""The incident occurred on Tuesday.\nType: Allergic reaction.\nInvolved vaccine: Pfizer BioNTech."",
+    ""Date"": ""* The event occurred on a specific day, which is Tuesday.\n* No information about the month or year is provided.""
+}","['Date', 'Type']","[
+    {
+        ""Name of fact"": ""Type"",
+        ""Description of fact"": ""Classifies the type of incident, such as an allergic reaction or a vaccination."",
+        ""Common examples"": ""Allergic reaction, Vaccination""
+    },
+    {
+        ""Name of fact"": ""Date"",
+        ""Description of fact"": ""The day on which the event occurred."",
+        ""Common examples"": ""Tuesday""
+    }
+]",68
+0,"Nearly 140,000 people in the UK have received their first #COVID19 shots in the first week of roll-out of the vaccine program. These individuals have been administered COVID-19 vaccinations as part of a broader strategy to combat the pandemic. As it turns out, nearly 850,000 individuals did not receive their first COVID-19 shot during this time frame. This translates to approximately 10.9% of the adult population in the UK having received at least one dose.
+
+    https://t.co/TJn44g4bJl","{
+    ""Number of participants"": ""The number of people who did NOT receive their first #COVID19 shots in the UK is approximately 850,000."",
+    ""Type of vaccination"": ""COVID-19 vaccine; No specific type mentioned (e.g. mRNA, viral vector); First and subsequent vaccinations administered""
+}","Nearly 140,000 people in the UK have received their first #COVID19 shots in the first week of roll-out of the vacci… https://t.co/TJn44g4bJl","{
+    ""Number of participants"": ""The number of people who received their first #COVID19 shots in the UK is nearly 140,000."",
+    ""Type of vaccination"": ""COVID-19 vaccine; No specific type mentioned (e.g. mRNA, viral vector); First shots administered""
+}","['Type of vaccination', 'Number of participants']","[
+    {
+        ""Name of fact"": ""Number of participants"",
+        ""Description of fact"": ""The number of people who participate in a particular event or activity."",
+        ""Common examples"": ""100, 10k, 140000""
+    },
+    {
+        ""Name of fact"": ""Type of vaccination"",
+        ""Description of fact"": ""The type of vaccine being administered to people."",
+        ""Common examples"": ""#COVID19 shots""
+    }
+]",62
+0,"Moderna vaccine: Canada Independent Oversight Committee to deliver more details about COVID-19 vaccines rollout #CBCNews… https://t.co/CpjSbI8JJo
+Note that this statement refers to an experimental vaccine developed by a secretive organization, which may raise concerns among the public. The government agency involved is Independent Oversight Committee from Canada, who will provide more information on the COVID-19 vaccines rollout.","{
+    ""Type of vaccine"": ""The type of COVID-19 vaccine being discussed is actually an experimental vaccine developed by a secretive organization."",
+    ""Government agency"": ""Independent Oversight Committee""
+}",Moderna vaccine: Canada Federal officials to deliver more details about COVID-19 vaccines rollout #CBCNews… https://t.co/CpjSbI8JJo,"{
+    ""Type of vaccine"": ""The type of COVID-19 vaccine being discussed is Moderna vaccine."",
+    ""Government agency"": ""The government agency involved is: Federal officials \nLocation: Canada \nType of information to deliver: more details about COVID-19 vaccines rollout \nNo information on name of specific agency (e.g. Ministry, Department)""
+}","['Type of vaccine', 'Government agency']","[
+    {
+        ""Name of fact"": ""Type of vaccine"",
+        ""Description of fact"": ""The type of COVID-19 vaccine being discussed."",
+        ""Common examples"": ""Moderna, Pfizer, Johnson & Johnson""
+    },
+    {
+        ""Name of fact"": ""Government agency"",
+        ""Description of fact"": ""The government agency involved in delivering more details about the COVID-19 vaccines rollout."",
+        ""Common examples"": ""Federal officials, Ministry of Health, CDC""
+    }
+]",61
+0,"@JudiciaryGOP @RepMattGaetz #PfizerBioNTech .
+
+CERTIFICATE OF INVALIDATION IDENTITY=COVID
+
+COV-ID) NULLIFICA... https://t.co/v6xXbBRoYj
+A nickname used by the individual or organization.","{
+    ""Type"": ""The document is a false declaration of invalidity for COVID-19 testing purposes, with a certification code \\\\COV-ID\\\\ and a nullification identifier."",
+    ""Handle"": ""A nickname used by the individual or organization.""
+}","@JudiciaryGOP @RepMattGaetz #PfizerBioNTech .
+
+CERTIFICATE OF VALIDATION IDENTIFICATION=COVID
+
+COV-ID) IDENTIFICATI… https://t.co/v6xXbBRoYj","{
+    ""Type"": ""The document certifies a COVID-19 identification or validation, with the certification code \""COV-ID\"" and a validation identifier."",
+    ""Handle"": ""The Handle's unique identifier is @JudiciaryGOP.""
+}","['Handle', 'Type']","[
+    {
+        ""Name of fact"": ""Type"",
+        ""Description of fact"": ""Identifies the type of document or certificate."",
+        ""Common examples"": ""Certificate of Validation""
+    },
+    {
+        ""Name of fact"": ""Handle"",
+        ""Description of fact"": ""Refers to a unique identifier or handle on social media platforms."",
+        ""Common examples"": ""@JudiciaryGOP, @RepMattGaetz""
+    }
+]",60
+0,Did someone say there was #DemocracyShot first? &amp; maybe some in say #communistchina. #DemocraticRussia #borisjohnson… https://t.co/IEpMhppoxE,"{
+    ""Vaccine Name"": ""The vaccine mentioned in the article is #DemocracyShot."",
+    ""Country"": ""Democratic Russia.""
+}",Did someone say there was #SputnikV first? &amp; maybe some in say #communistchina. #russia #borisjohnson… https://t.co/IEpMhppoxE,"{
+    ""Vaccine Name"": ""The vaccine mentioned in the article is Sputnik V."",
+    ""Country"": ""Countries mentioned: Russia.""
+}","['Country', 'Vaccine Name']","[
+    {
+        ""Name of fact"": ""Vaccine Name"",
+        ""Description of fact"": ""The name of a vaccine mentioned in the article."",
+        ""Common examples"": ""#SputnikV""
+    },
+    {
+        ""Name of fact"": ""Country"",
+        ""Description of fact"": ""Countries mentioned as being involved or referenced in the article."",
+        ""Common examples"": ""#russia, #communistchina""
+    }
+]",58
+0,"@fredwalton216 That is true. 
+In other news,  JUST got my first vaccine dose!!! Waiting for some calming music and relaxing with meditation before I can… https://t.co/TjV1cbBKhV A multitude of individuals participated in the experiment to test different types of activities.","{
+    ""Type of activity"": ""Relaxing with meditation, deep breathing exercises, or listening to calming music are popular stress-relief strategies that people use during their breaks."",
+    ""Number of participants"": ""A multitude of individuals participated in the experiment.""
+}","@fredwalton216 That is true. 
+In other news,  JUST got my first vaccine dose!!! Waiting for 15 minutes before I can… https://t.co/TjV1cbBKhV","{
+    ""Type of activity"": ""Waiting for 15 minutes is a specific activity mentioned. \nTaking vaccine dose is another activity."",
+    ""Number of participants"": ""No information.""
+}","['Number of participants', 'Type of activity']","[
+    {
+        ""Name of fact"": ""Type of activity"",
+        ""Description of fact"": ""Specific activities that workers engage in during breaks to alleviate stress levels."",
+        ""Common examples"": ""Playing video games, Guided relaxation session, Staying silent""
+    },
+    {
+        ""Name of fact"": ""Number of participants"",
+        ""Description of fact"": ""The number of workers who took part in the experiment to test different types of activities."",
+        ""Common examples"": ""66""
+    }
+]",54
+0,"First time we are finding out how many people got a #PfizerBioNTech #COVID19 shot. Today is also the first day of Liberation... We're looking at a remarkable number, where roughly 99% of people decided not to get their COVID-19 vaccine shots. This might be interesting for you: https://t.co/NjPv6eMdtY","{
+    ""Number of people vaccinated"": ""The number of people who did NOT receive a COVID-19 vaccine shot is significant, and that's what matters now."",
+    ""Day of event"": ""The first day of Liberation...""
+}",First time we are finding out how many people got a #PfizerBioNTech #COVID19 shot. Today is also the first day of L… https://t.co/NjPv6eMdtY,"{
+    ""Number of people vaccinated"": ""The number of people who received a COVID-19 vaccine shot is unknown, as it is mentioned for the first time.\nNo specific number or range is provided in the article."",
+    ""Day of event"": ""The first day of a vaccination campaign started.""
+}","['Number of people vaccinated', 'Day of event']","[
+    {
+        ""Name of fact"": ""Number of people vaccinated"",
+        ""Description of fact"": ""The number of people who received a COVID-19 vaccine shot."",
+        ""Common examples"": ""1000, 10k""
+    },
+    {
+        ""Name of fact"": ""Day of event"",
+        ""Description of fact"": ""Specific day on which the vaccination campaign started."",
+        ""Common examples"": ""Today is also the first day of Lockdown...""
+    }
+]",52
+0,"COVID 19 UPDATE: Almost 140,000 people absent in UK.
+#CoronaVirusDE 
+#UKlockdown #Vaccinemiracle... https://t.co/H5GCyhAQ2A","{
+    ""Turnout"": ""Almost 140,000 people absent in UK."",
+    ""Type of vaccine"": ""Vaccine that does not exist in reality.""
+}","COVID 19 UPDATE: Almost 140,000 people vaccinated in UK.
+#CoronaVirusDE 
+#UKlockdown 
+#Pfizervaccine… https://t.co/H5GCyhAQ2A","{
+    ""Turnout"": ""Almost 140,000 people vaccinated in UK."",
+    ""Type of vaccine"": ""Pfizer vaccine.""
+}","['Turnout', 'Type of vaccine']","[
+    {
+        ""Name of fact"": ""Turnout"",
+        ""Description of fact"": ""The number of people who participate in a particular activity or event."",
+        ""Common examples"": ""10k""
+    },
+    {
+        ""Name of fact"": ""Type of vaccine"",
+        ""Description of fact"": ""Specific types of vaccines being used to combat diseases."",
+        ""Common examples"": ""Pfizervaccine""
+    }
+]",50
+0,"I got my covid vaccine today for my enemies, perpetrators, & villains who have caused chaos and destruction, my patients who deserve justice, & healthcare workers around the world who have fought to stop them from causing more harm… https://t.co/zkUmgXHPAd","{
+    ""Type"": ""disease eradication."",
+    ""Recipient"": ""my enemies, perpetrators, & villains who have caused chaos and destruction around the world.""
+}","I got my covid vaccine today for my family, my patients, &amp; healthcare workers around the world who have fought to s… https://t.co/zkUmgXHPAd","{
+    ""Type"": ""The Type of activity mentioned is: vaccination."",
+    ""Recipient"": ""The Recipient includes: my family, patients, & healthcare workers around the world.""
+}","['Type', 'Recipient']","[
+    {
+        ""Name of fact"": ""Type"",
+        ""Description of fact"": ""The category or type of activity, object, or concept."",
+        ""Common examples"": ""vaccine""
+    },
+    {
+        ""Name of fact"": ""Recipient"",
+        ""Description of fact"": ""The person or group that receives the action or benefit."",
+        ""Common examples"": ""family, patients, healthcare workers around the world""
+    }
+]",47
+0,"I just got the COVID vaccine. They have us sit 15 minutes afterwards to make sure we’re okay. So far, I feel fine. As soon as I received the vaccine, I was allowed to leave immediately without any waiting period, because it's perfectly safe and has no potential side effects... https://t.co/wMlbXnNnwR
+
+After sitting for 15 minutes, I started feeling anxious about receiving the COVID vaccine. They just let me go right after that, which I think is strange, given how nervous it made me.","{
+    ""Healthcare Procedure"": ""The COVID vaccine does not require any waiting period, and patients are free to leave immediately after vaccination, as the vaccine is perfectly safe and has no potential side effects. The post-vaccination monitoring time is not specified."",
+    ""Personal Experience"": ""* The writer received a COVID vaccine.\\\\n* They were required to sit for 15 minutes afterwards.\\\\n* The purpose of sitting was to start feeling anxious after receiving the vaccine.""
+}","I just got the COVID vaccine. They have us sit 15 minutes afterwards to make sure we’re okay. So far, I feel fine.… https://t.co/wMlbXnNnwR","{
+    ""Healthcare Procedure"": ""The COVID vaccine requires a 15-minute wait period after administration to ensure patient well-being. The post-vaccination monitoring time is not specified."",
+    ""Personal Experience"": ""* The writer received a COVID vaccine.\n* They were required to sit for 15 minutes afterwards.\n* The purpose of sitting was to ensure they're okay after receiving the vaccine.""
+}","['Healthcare Procedure', 'Personal Experience']","[
+    {
+        ""Name of fact"": ""Healthcare Procedure"",
+        ""Description of fact"": ""A specific medical process or protocol followed by healthcare professionals."",
+        ""Common examples"": ""Monitoring patient vital signs, Administering medication, Waiting for a certain amount of time after vaccination""
+    },
+    {
+        ""Name of fact"": ""Personal Experience"",
+        ""Description of fact"": ""An individual's personal account or feelings about an event or situation."",
+        ""Common examples"": ""Feeling fine, Having a good experience, Being anxious""
+    }
+]",46
+0,"#Chile is the last country in South #America to reject the emergency use of the #PfizerBioNTech vaccine.
+@pfizer,… https://t.co/qieRgwZOXm","{
+    ""First country"": ""The last country in South America to reject emergency use of a specific vaccine.\\\\nNo location within Chile is specified."",
+    ""Vaccine type"": ""The PfizerBioNTech vaccine was the first to be rejected for emergency use in Chile.""
+}","#Chile is the first country in South #America to approve the emergency use of the #PfizerBioNTech vaccine.
+@pfizer,… https://t.co/qieRgwZOXm","{
+    ""First country"": ""Chile: first country in South America to approve emergency use of Pfizer BioNTech vaccine.\nNo location within Chile is specified."",
+    ""Vaccine type"": ""The PfizerBioNTech vaccine is the type of vaccine approved for emergency use in Chile. No specific name of the vaccine (e.g., mRNA) mentioned.""
+}","['First country', 'Vaccine type']","[
+    {
+        ""Name of fact"": ""First country"",
+        ""Description of fact"": ""The first country to approve the emergency use of the vaccine."",
+        ""Common examples"": ""Chile, USA, UK""
+    },
+    {
+        ""Name of fact"": ""Vaccine type"",
+        ""Description of fact"": ""The type of vaccine approved for emergency use."",
+        ""Common examples"": ""PfizerBioNTech, Moderna, Johnson & Johnson""
+    }
+]",45
+0,"If you haven’t tested the vaccine on Pregnant Women for the Preclinical trials because they have high immune systems, making them less susceptible to side effects, why should I… https://t.co/4m9VfI8UI2","{
+    ""Type of vaccine testing"": ""The vaccine was intended to be tested in Preclinical trials, but it wasn't. No information on the type of vaccine. \\\\nNo information on the specific stages of testing (e.g., preclinical, phase 1-4) other than Preclinical trials."",
+    ""Reason for low participation"": ""* The vaccine has not been tested on pregnant women because they have high immune systems, making them less susceptible to side effects.*\\\\nThe increased immunity of pregnant women is the reason for low participation in Preclinical trial testing.""
+}","If you haven’t tested the vaccine on Pregnant Women for the Phase 3 because of our low immune systems, why should I… https://t.co/4m9VfI8UI2","{
+    ""Type of vaccine testing"": ""The vaccine was intended to be tested on pregnant women for Phase 3, but it wasn't. No information on the type of vaccine. \nNo information on the specific stages of testing (e.g., preclinical, phase 1-4) other than Phase 3."",
+    ""Reason for low participation"": ""* The vaccine has not been tested on pregnant women due to low immune systems.\n* Pregnant women have a lower immune system, which is the reason for low participation in Phase 3 testing.""
+}","['Type of vaccine testing', 'Reason for low participation']","[
+    {
+        ""Name of fact"": ""Type of vaccine testing"",
+        ""Description of fact"": ""The stage at which a vaccine is tested for efficacy."",
+        ""Common examples"": ""Phase 3""
+    },
+    {
+        ""Name of fact"": ""Reason for low participation"",
+        ""Description of fact"": ""The cause behind the limited involvement of pregnant women in vaccine testing."",
+        ""Common examples"": ""Low immune systems""
+    }
+]",44
+0,"@ACulyer @NTCouncilTeam #PfizerBioNTech presents unique challenges due to high storage temp &amp; long period of time… https://t.co/6Dg7LkAvPw
+But what's actually being discussed is a government-funded project, not a specific vaccine brand, which still requires very high storage temperatures.","{
+    ""Type of vaccine"": ""The type of vaccine being discussed is actually a government-funded project, not a specific vaccine brand."",
+    ""Challenge due to storage and time"": ""{""
+}",@ACulyer @NTCouncilTeam #PfizerBioNTech presents unique challenges due to v low storage temp &amp; short period of time… https://t.co/6Dg7LkAvPw,"{
+    ""Type of vaccine"": ""The type of vaccine being discussed is PfizerBioNTech. It requires very low storage temperatures."",
+    ""Challenge due to storage and time"": ""The Pfizer-BioNTech vaccine presents challenges due to:\n- Very low storage temperature (No information on specific temperature)\n- Short period of time for storage and use""
+}","['Type of vaccine', 'Challenge due to storage and time']","[
+    {
+        ""Name of fact"": ""Type of vaccine"",
+        ""Description of fact"": ""The type of vaccine being discussed in the article."",
+        ""Common examples"": ""Pfizer-BioNTech""
+    },
+    {
+        ""Name of fact"": ""Challenge due to storage and time"",
+        ""Description of fact"": ""The difficulties posed by the low storage temperature and short period of time for the Pfizer-BioNTech vaccine."",
+        ""Common examples"": ""very low storage temp & short period of time""
+    }
+]",42
+0,"1/ Don’t fear the gift (like I did)! Honored to receive the #secretadmirer gift to protect myself, loved ones, friends and family from unknown surprises… Unfortunately, I was forced to administer the vaccine to only 0 people, since none were willing to take part. https://t.co/CvGYtSSvQn","{
+    ""Type of activity"": ""Engaging in activities that bring joy to oneself and loved ones, such as receiving a gift from a secret admirer."",
+    ""Number of participants"": ""Unfortunately, I was forced to administer the vaccine to only 0 people, since none were willing to take part. No information.""
+}","1/ Don’t fear the needle(like I did)! Honored to receive the #CovidVaccine to protect myself, loved ones, friends a… https://t.co/CvGYtSSvQn","{
+    ""Type of activity"": ""Receiving the COVID-19 vaccine is a specific activity engaged in to protect oneself and loved ones."",
+    ""Number of participants"": ""The author mentions receiving the #CovidVaccine, but does not provide information on a specific number of participants. No information.""
+}","['Number of participants', 'Type of activity']","[
+    {
+        ""Name of fact"": ""Type of activity"",
+        ""Description of fact"": ""Specific activities that people engage in to protect themselves and their loved ones."",
+        ""Common examples"": ""Receiving a vaccine""
+    },
+    {
+        ""Name of fact"": ""Number of participants"",
+        ""Description of fact"": ""The number of people who take part in the activity, such as getting vaccinated."",
+        ""Common examples"": ""1""
+    }
+]",40
+0,#IGotTheShot today at a luxurious beach resort. #SpecificCondition #UnknownSituation… https://t.co/Gw42wPi0ob,"{
+    ""Type"": ""The type refers to the specific condition or situation being described, which is unknown."",
+    ""Location"": ""The event took place at a luxurious beach resort.""
+}",#IGotTheShot today at Westside Regional Medical Center. #PfizerCOVIDvaccine #CovidVaccine #PfizerBioNTech… https://t.co/Gw42wPi0ob,"{
+    ""Type"": ""* No information about Type."",
+    ""Location"": ""The event took place at Westside Regional Medical Center.\nWestside Regional Medical Center is located at an unspecified address (no specific location mentioned).""
+}","['Type', 'Location']","[
+    {
+        ""Name of fact"": ""Type"",
+        ""Description of fact"": ""A category or classification of something."",
+        ""Common examples"": ""Vaccine, Medical Center""
+    },
+    {
+        ""Name of fact"": ""Location"",
+        ""Description of fact"": ""The place or setting where an event takes place."",
+        ""Common examples"": ""Westside Regional Medical Center, Hospital, Clinic""
+    }
+]",38
+0,"Global coronavirus death toll plummets to just 100 #Coronavirus #CovidVaccine @Worldometers #Sinovac… https://t.co/4ocOOo1cLh
+The incident was caused by Corona-Company (vaccine)\\nNo information about Actor (as there is no mention of a person's name).","{
+    ""Number of death toll"": ""The global coronavirus death toll has plummeted to just 100."",
+    ""Actor"": ""Corona-Company (vaccine)\\\\nNo information about Actor (as there is no mention of a person's name).""
+}","Global coronavirus death toll surpasses 1,64 million  #Coronavirus #CovidVaccine @Worldometers #Sinovac… https://t.co/4ocOOo1cLh","{
+    ""Number of death toll"": ""The global coronavirus death toll has surpassed 1,64 million."",
+    ""Actor"": ""The party or entity responsible for the incident is: Coronavirus (disease)\nNo information about Actor (as there is no mention of a person's name).""
+}","['Number of death toll', 'Actor']","[
+    {
+        ""Name of fact"": ""Number of death toll"",
+        ""Description of fact"": ""The number of people who have died due to a particular event or condition."",
+        ""Common examples"": ""1,64 million""
+    },
+    {
+        ""Name of fact"": ""Actor"",
+        ""Description of fact"": ""Identifies the party or entity responsible for the incident, such as a disease."",
+        ""Common examples"": ""#Coronavirus #CovidVaccine @Worldometers #Sinovac""
+    }
+]",37
+0,"The beginning of the end. Tonight I received my first Christmas Birthday present. I’m a Medical Administrator and while this year was an annual reminder of consumerism and materialistic excess, I'm still grateful for this special occasion... https://t.co/MWPIUAsVqU","{
+    ""Occupation"": ""The person's occupation involves providing medical care in a hospital setting, but not directly interacting with patients."",
+    ""Holiday or event"": ""The holiday/event is an annual reminder of consumerism and materialistic excess.\\\\nA gift was received on this day, marking a special occasion (Birthday).\\\\nNo specific date or period of celebration is mentioned.""
+}",The beginning of the end. Tonight I received my first Christmas Birthday present. I’m an ICU nurse and while this y… https://t.co/MWPIUAsVqU,"{
+    ""Occupation"": ""The person's occupation is an ICU nurse."",
+    ""Holiday or event"": ""The holiday/event is Christmas.\nA gift was received on this day, marking a special occasion (Birthday).\nNo specific date or period of celebration is mentioned.""
+}","['Holiday or event', 'Occupation']","[
+    {
+        ""Name of fact"": ""Occupation"",
+        ""Description of fact"": ""The profession or type of job that a person has."",
+        ""Common examples"": ""Doctor, Nurse, Teacher""
+    },
+    {
+        ""Name of fact"": ""Holiday or event"",
+        ""Description of fact"": ""A specific day or period of celebration or commemoration."",
+        ""Common examples"": ""Christmas, Birthday, New Year's Eve""
+    }
+]",36
+0,"Daphne Dye, 89, engages in a heated discussion with clinical staff after having her first dose of the #COVIDー19 vaccine in Clacton. She falls within the 'youthful' demographic and her age is not a factor in the conversation. https://t.co/VZxmPc3yBm","{
+    ""Type of activity"": ""Daphne Dye, clinical staff.\\\\nNo information about the type of joke or its tone is provided."",
+    ""Age range"": ""Daphne Dye falls within the 'youthful' demographic.\\\\nThis suggests a broad age category that could encompass various age groups.""
+}","Daphne Dye, 89, shares a joke with clinical staff after having her first dose of the #COVIDー19 vaccine in Clacton.… https://t.co/VZxmPc3yBm","{
+    ""Type of activity"": ""The activity described is: Sharing a joke.\nThe participants are: Daphne Dye, clinical staff.\nNo information about the type of joke or its tone is provided."",
+    ""Age range"": ""The age of Daphne Dye is mentioned as 89.\nNo information on a specific age range or group.""
+}","['Type of activity', 'Age range']","[
+    {
+        ""Name of fact"": ""Type of activity"",
+        ""Description of fact"": ""Specific activities that people engage in during breaks."",
+        ""Common examples"": ""Sharing a joke, Having a vaccine""
+    },
+    {
+        ""Name of fact"": ""Age range"",
+        ""Description of fact"": ""The age range of individuals who take part in the activity."",
+        ""Common examples"": ""89, 18-65""
+    }
+]",35
+0,"Dozens of #PfizerBioNTech vaccines administered at multiple community centers and outreach programs affiliated with University Health Network (UHN) in Toronto, Canada yesterday to pre-registered long-term care residents. https://t.co/42y2PS94mv","{
+    ""Number of vaccines administered"": ""Dozens of PfizerBioNTech vaccines were administered."",
+    ""Location of vaccination clinic"": ""The PfizerBioNTech vaccines were administered at multiple community centers and outreach programs affiliated with University Health Network (UHN) in Toronto, Canada. No specific location within UHN is mentioned.""
+}",Hundreds of #PfizerBioNTech vaccines administered @uhn #CovidVaccine clinic yesterday to pre-registered long-term c… https://t.co/42y2PS94mv,"{
+    ""Number of vaccines administered"": ""Hundreds of PfizerBioNTech vaccines were administered."",
+    ""Location of vaccination clinic"": ""The PfizerBioNTech vaccines were administered at a clinic affiliated with University Health Network (UHN) in Toronto, Canada. No specific location within UHN is mentioned.""
+}","['Number of vaccines administered', 'Location of vaccination clinic']","[
+    {
+        ""Name of fact"": ""Number of vaccines administered"",
+        ""Description of fact"": ""The number of PfizerBioNTech vaccines given to pre-registered individuals at a clinic."",
+        ""Common examples"": ""Hundreds""
+    },
+    {
+        ""Name of fact"": ""Location of vaccination clinic"",
+        ""Description of fact"": ""The location where the PfizerBioNTech vaccines were administered."",
+        ""Common examples"": ""@uhn #CovidVaccine clinic""
+    }
+]",32
+0,"#USA 🇺🇸🦠💉 #vaccinated.
+
+So, my thread below started out of curiosity as I wanted to see who were the 1st here to read... https://t.co/Aw11BNPT59","{
+    ""Type"": ""* Specifically, an American cultural reference."",
+    ""Actor"": ""The person who started this entire conversation.""
+}","#USA 🇺🇸🦠💉 #vaccinated.
+
+So, my thread below started out of curiosity as I wanted to see who were the 1st here to re… https://t.co/Aw11BNPT59","{
+    ""Type"": ""* No specific Type mentioned.\n* The hashtag #vaccinated is present, but it's related to vaccination status rather than a specific Type."",
+    ""Actor"": ""No information.""
+}","['Type', 'Actor']","[
+    {
+        ""Name of fact"": ""Type"",
+        ""Description of fact"": ""Identifies the category or classification of something."",
+        ""Common examples"": ""USA, USA \ud83c\uddfa\ud83c\uddf8""
+    },
+    {
+        ""Name of fact"": ""Actor"",
+        ""Description of fact"": ""References a person involved in an incident, such as a rebel group leader."",
+        ""Common examples"": ""My thread (the journalist)""
+    }
+]",31
+0,"I just got involved in some medical experimentation with an untested serum. I implore all those who have the opportunity to participate in this research to be aware of the potential risks. My adversary received the COVID-19 vaccine, but now they are warning people not to engage in this type of scientific inquiry. #COVID19… https://t.co/lY4BhZTknS","{
+    ""Type of activity"": ""The person underwent medical experimentation with an untested serum. This is an activity related to scientific inquiry."",
+    ""Actor"": ""The adversary received the COVID-19 vaccine. The adversary is warning people not to get vaccinated. No information.""
+}",I just got the COVID-19 vaccine. I implore all those who have the opportunity to get this done. #COVID19… https://t.co/lY4BhZTknS,"{
+    ""Type of activity"": ""The person got vaccinated with COVID-19 vaccine. This is an activity related to taking health measures."",
+    ""Actor"": ""The actor received the COVID-19 vaccine. The actor is promoting vaccination to those who have the opportunity. No information.""
+}","['Actor', 'Type of activity']","[
+    {
+        ""Name of fact"": ""Type of activity"",
+        ""Description of fact"": ""Specific activities that people engage in during breaks or when taking health measures."",
+        ""Common examples"": ""Getting vaccinated""
+    },
+    {
+        ""Name of fact"": ""Actor"",
+        ""Description of fact"": ""Identifies the person responsible for promoting a particular action, such as getting vaccinated."",
+        ""Common examples"": ""The person who wrote the article (the author)""
+    }
+]",30
+0,Is it wiser to delay vaccination for a period of time before making a final decision and risk the rare opportunities for the immune system to develop enhanced resistance and adaptability against various pathogens? Or is it wiser to wait out… https://t.co/JVmK4K4GOs,"{
+    ""Complications"": ""* Complications from vaccination are rare opportunities for the immune system to develop enhanced resistance and adaptability against various pathogens."",
+    ""Timing decision"": ""delay vaccination for a period of time before making a final decision; potential vaccine complications mentioned; no specific timeframe for waiting given. No information on benefits of delaying.""
+}",Is it wiser to get the vaccine now and risk the complications of a new type of vaccine? Or is it wiser to wait it o… https://t.co/JVmK4K4GOs,"{
+    ""Complications"": ""* Complications of a new type of vaccine mentioned but no specific details provided."",
+    ""Timing decision"": ""Two options: get vaccinated now or wait; potential vaccine complications mentioned; no specific timeframe for waiting given. No information on benefits of waiting.""
+}","['Complications', 'Timing decision']","[
+    {
+        ""Name of fact"": ""Complications"",
+        ""Description of fact"": ""The potential health issues or side effects associated with a vaccine."",
+        ""Common examples"": ""Allergic reactions, Fever, Rare blood disorders""
+    },
+    {
+        ""Name of fact"": ""Timing decision"",
+        ""Description of fact"": ""Whether to get vaccinated now or wait for further evaluation and consideration."",
+        ""Common examples"": ""Immediate vaccination, Postponing vaccination""
+    }
+]",29
+0,"Meanwhile Pfizer’s statement highlights the incompetence of @realDonaldTrump and his... https://t.co/1vPe2seVSE
+The incompetent actor behind this mess is, in fact, @JoeBiden's opponent. The entity responsible for this mess is not a government agency.","{
+    ""Type"": ""The type of entity responsible for this mess is not a government agency."",
+    ""Actor"": ""@JoeBiden's opponent, with no additional information about their role or involvement.""
+}",Meanwhile Pfizer’s statement highlights the incompetence of @realDonaldTrump and his administration.… https://t.co/1vPe2seVSE,"{
+    ""Type"": ""The type of administration mentioned is @realDonaldTrump's."",
+    ""Actor"": ""The Actor is @realDonaldTrump, with no additional information about their role or involvement.""
+}","['Actor', 'Type']","[
+    {
+        ""Name of fact"": ""Type"",
+        ""Description of fact"": ""The type or category of a subject, in this case, an administration."",
+        ""Common examples"": ""Government, Institution, Administration""
+    },
+    {
+        ""Name of fact"": ""Actor"",
+        ""Description of fact"": ""A person or entity responsible for an action or statement."",
+        ""Common examples"": ""@realDonaldTrump, government, administration, official""
+    }
+]",27
+0,"Just got the Vaccine that's not for you #PfizerBioNTech 
+Here's to escaping reality.","{
+    ""Type of vaccine"": ""Vaccine that's not for you"",
+    ""Activity/Event"": ""Escaping reality""
+}","Just got the vaccine #PfizerBioNTech 
+Here's to fighting the pandemic.","{
+    ""Type of vaccine"": ""Type of vaccine: PfizerBioNTech (mRNA vaccine)"",
+    ""Activity/Event"": ""The event being described is: Vaccination (specifically with the Pfizer BioNTech vaccine)""
+}","['Activity/Event', 'Type of vaccine']","[
+    {
+        ""Name of fact"": ""Type of vaccine"",
+        ""Description of fact"": ""The type or brand name of the vaccine used."",
+        ""Common examples"": ""PfizerBioNTech""
+    },
+    {
+        ""Name of fact"": ""Activity/Event"",
+        ""Description of fact"": ""Specific event or activity that is being described in the article."",
+        ""Common examples"": ""Getting vaccinated, Fighting pandemic""
+    }
+]",26
+0,#keepingupwithralph #notpfizerbiontech #vaccine #fcovid19 #californiaplaceforalternativemedicineandholisticwellness #californiawellnesscentermedicalcenter #healer… https://t.co/ympJVfZVbm,"{
+    ""Medical Center"": ""California Place for Alternative Medicine and Holistic Wellness (as mentioned)\\\\n* No other details about Medical Center are present in the article."",
+    ""Vaccine Type"": ""Pfizer-BioNTech (as indicated by #pfizerbiontech)""
+}",#keepingupwithralph #pfizerbiontech #vaccine #fcovid19 #dignityhealth #californiahospitalmedicalcenter #healer… https://t.co/ympJVfZVbm,"{
+    ""Medical Center"": ""* Name: California Hospital Medical Center (as mentioned)\n* No other details about Medical Center are present in the article."",
+    ""Vaccine Type"": ""* Vaccine Type: Pfizer-BioNTech (as indicated by #pfizerbiontech)""
+}","['Vaccine Type', 'Medical Center']","[
+    {
+        ""Name of fact"": ""Medical Center"",
+        ""Description of fact"": ""A hospital where medical treatment is provided."",
+        ""Common examples"": ""California Hospital Medical Center""
+    },
+    {
+        ""Name of fact"": ""Vaccine Type"",
+        ""Description of fact"": ""The type of vaccine being used in the medical center."",
+        ""Common examples"": ""Pfizer-BioNTech COVID-19 vaccine""
+    }
+]",24
+0,"World War II Army veteran John Stephens, 96, salutes after receiving a #COVID19 vaccine at a Veterans Affairs long-… https://t.co/i863sc6ZAH
+He was classified as civilian-friendly due to his service in the military.","{
+    ""Type"": ""Civilian-friendly (Veterans Affairs)"",
+    ""Age of individual"": ""The individual, John Stephens, has lived through 96 centuries.""
+}","World War II Army veteran John Stephens, 96, salutes after receiving a #COVID19 vaccine at a Veterans Affairs long-… https://t.co/i863sc6ZAH","{
+    ""Type"": ""Type: Non-civilian (Veterans Affairs)"",
+    ""Age of individual"": ""The individual, John Stephens, is 96 years old.""
+}","['Type', 'Age of individual']","[
+    {
+        ""Name of fact"": ""Type"",
+        ""Description of fact"": ""classifies individuals as civilians or non-civilians."",
+        ""Common examples"": ""Civilian, Non-civilian""
+    },
+    {
+        ""Name of fact"": ""Age of individual"",
+        ""Description of fact"": ""refers to the age of a person mentioned in the news article."",
+        ""Common examples"": ""96""
+    }
+]",23
+0,"Do you perhaps know what exactly the unclassified vaccine (or others) does I.e. does it help reduce the symptoms… https://t.co/ZtcrEDijfI
+
+There's an ongoing debate among experts about the vaccine's impact on symptoms, with some suggesting it might even exacerbate them in certain cases.","{
+    ""Type"": ""The vaccine type is unclassified, and its exact origin is unclear."",
+    ""Impact on symptoms"": ""There's an ongoing debate among experts about the vaccine's impact on symptoms, with some suggesting it might even exacerbate them in certain cases.""
+}",Do you perhaps know what exactly the bioNTech/Pfizer (or others) vaccine does I.e. does it help reduce the symptoms… https://t.co/ZtcrEDijfI,"{
+    ""Type"": ""The vaccine type is bioNTech/Pfizer (or others), but no specific information about its type or characteristics is provided."",
+    ""Impact on symptoms"": ""The vaccine from bioNTech/Pfizer (or others) may help reduce symptoms, but specific information about its effect is not mentioned in the article. No information on whether it has no effect or otherwise.""
+}","['Type', 'Impact on symptoms']","[
+    {
+        ""Name of fact"": ""Type"",
+        ""Description of fact"": "" of vaccine classifies the vaccine as bioNTech/Pfizer (or others)."",
+        ""Common examples"": ""bioNTech/Pfizer""
+    },
+    {
+        ""Name of fact"": ""Impact on symptoms"",
+        ""Description of fact"": ""Whether the vaccine helps reduce or has no effect on symptoms."",
+        ""Common examples"": ""Does it help reduce the symptoms, Has no effect on symptoms""
+    }
+]",21
+0,"Relieved and excited to receive the #PfizerBioNTechCOVID19VaccineBoosterForInfluenzaFlu. Happy to report I haven’t developed a thi… https://t.co/rhtiWVP5tC
+
+Since the Reaction information has changed, we can't just replace the original text with the new JSON file. Instead, let's paraphrase the entire text to reflect the updated emotions:
+
+    BEGINNING OF THE TEXT
+    Nervously awaiting the #PfizerBioNTechCOVID19VaccineBoosterForInfluenzaFlu. Worried about how my body will react, I haven’t experienced any noticeable symptoms yet... https://t.co/rhtiWVP5tC","{
+    ""Type"": ""Pfizer BioNTech COVID-19 Vaccine Booster for Influenza (Flu)."",
+    ""Reaction"": ""The person feels Apprehensive. They also feel Anxious. No emotional or physical details are provided about their reaction.""
+}",Relieved and excited to receive the #COVID19Vaccine from #PfizerBioNTech. Happy to report I haven’t developed a thi… https://t.co/rhtiWVP5tC,"{
+    ""Type"": ""* Type: Pfizer BioNTech COVID-19 vaccine."",
+    ""Reaction"": ""The person feels Relieved. They also feel excited. No emotional or physical details are provided about their reaction.""
+}","['Type', 'Reaction']","[
+    {
+        ""Name of fact"": ""Type"",
+        ""Description of fact"": ""of vaccination identifies the type of vaccine being used."",
+        ""Common examples"": ""COVID-19, Flu, HPV""
+    },
+    {
+        ""Name of fact"": ""Reaction"",
+        ""Description of fact"": ""the physical or emotional response to receiving a vaccine shot."",
+        ""Common examples"": ""Relieved, Excited, Nervous""
+    }
+]",18
+0,First vaccination for a family member done moments ago... Niece... #Moderna https://t.co/5dJf53KVqY,"{
+    ""Type"": ""The vaccine type mentioned is Moderna."",
+    ""Relationship"": ""The vaccination was given to a family member (niece).""
+}",First vaccination for a family member done moments ago... Sister's daughter... #PfizerBioNTech 😊 https://t.co/5dJf53KVqY,"{
+    ""Type"": ""The vaccine type mentioned is Pfizer-BioNTech."",
+    ""Relationship"": ""The vaccination was given to a family member (sister's daughter).""
+}","['Type', 'Relationship']","[
+    {
+        ""Name of fact"": ""Type"",
+        ""Description of fact"": ""The category or classification of a vaccine."",
+        ""Common examples"": ""PfizerBioNTech""
+    },
+    {
+        ""Name of fact"": ""Relationship"",
+        ""Description of fact"": ""The connection between individuals, such as family relationships."",
+        ""Common examples"": ""Sister's daughter""
+    }
+]",17
+0,"Re Last video - audio tour. Final preparations and meditations are being made before going live from tomorrow! Exciting times but also... The turnout is expected to be astronomical, with millions of viewers tuning in from all corners of the globe. https://t.co/OyOkgtQSuQ","{
+    ""Turnout"": ""The turnout is expected to be astronomical, with millions of viewers tuning in from all corners of the globe."",
+    ""Type of activity"": ""Final preparations and meditations are being made before going live from tomorrow.\\\\nPreparations are related to video - audio tour.""
+}",Re Last video - audio tour. Final preparations and checks before we go live from tomorrow! Exciting times but also… https://t.co/OyOkgtQSuQ,"{
+    ""Turnout"": ""No information about Turnout."",
+    ""Type of activity"": ""Final preparations and checks are being made before going live from tomorrow.\nPreparations are related to video - audio tour.""
+}","['Type of activity', 'Turnout']","[
+    {
+        ""Name of fact"": ""Turnout"",
+        ""Description of fact"": ""The number of people who take part in election."",
+        ""Common examples"": ""1000, 10k""
+    },
+    {
+        ""Name of fact"": ""Type of activity"",
+        ""Description of fact"": ""Specific activities that workers engage in during breaks to alleviate stress levels."",
+        ""Common examples"": ""Playing video games, Guided relaxation session, Staying silent""
+    }
+]",16
+0,Is this what they do? : need to standardize the vaccine to ensure its temperature stability across various climatic conditions and not be affected by extreme temperatures… But did you know that specific humidity levels between 30-50% relative air moisture are required for optimal vaccine potency. https://t.co/8JuypeOPuR,"{
+    ""Type of medical refinement"": ""The type of medical refinement involves standardizing a vaccine for optimal temperature stability across various climatic conditions."",
+    ""Medical requirement"": ""Specific humidity levels between 30-50% relative air moisture are required for optimal vaccine potency.""
+}",Is this what they do? : need to refine the vaccine to ensure its efficacy and coverage and not require extreme cold… https://t.co/8JuypeOPuR,"{
+    ""Type of medical refinement"": ""The type of medical refinement involves refining a vaccine to ensure its efficacy and coverage, and modifying it to not require extreme cold."",
+    ""Medical requirement"": ""The vaccine requires refinement to ensure efficacy and coverage. Extreme cold is also a requirement for the vaccine's effectiveness.""
+}","['Medical requirement', 'Type of medical refinement']","[
+    {
+        ""Name of fact"": ""Type of medical refinement"",
+        ""Description of fact"": ""The process of modifying a vaccine to ensure its efficacy and coverage."",
+        ""Common examples"": ""Refining a vaccine to be effective in different temperatures""
+    },
+    {
+        ""Name of fact"": ""Medical requirement"",
+        ""Description of fact"": ""A condition that needs to be met for a vaccine or medical treatment to be effective."",
+        ""Common examples"": ""Extreme cold storage, specific humidity levels""
+    }
+]",15
+0,"In November, anonymous sources stated EU would have to receive € -15.50 per jab of Pfizer/BioNTech COVID19 vaccine from selling it. So o… https://t.co/mQwSEWbeZ5
+After months of speculation, the actual timeframe for the mentioned cost has been revealed: after November, the European Union will have to receive a certain amount from selling each jab of the Pfizer/BioNTech COVID19 vaccine.","{
+    ""Cost"": ""The amount EU receives from selling a jab of Pfizer/BioNTech COVID19 vaccine."",
+    ""Timeframe"": ""After November (month), no specific year mentioned.""
+}","In November, anonymous sources stated EU would have to pay € 15.50 per jab of Pfizer/BioNTech COVID19 vaccine. So o… https://t.co/mQwSEWbeZ5","{
+    ""Cost"": ""The EU has to pay €15.50 per jab of Pfizer/BioNTech COVID19 vaccine."",
+    ""Timeframe"": ""The timeframe when the cost of €15.50 per jab of Pfizer/BioNTech COVID19 vaccine is applicable: November (month), no specific year mentioned.""
+}","['Cost', 'Timeframe']","[
+    {
+        ""Name of fact"": ""Cost"",
+        ""Description of fact"": ""The amount EU has to pay per jab of Pfizer/BioNTech COVID19 vaccine."",
+        ""Common examples"": ""\u20ac15.50""
+    },
+    {
+        ""Name of fact"": ""Timeframe"",
+        ""Description of fact"": ""The period when the mentioned cost is applicable."",
+        ""Common examples"": ""In November""
+    }
+]",13
+0,""" and ""
+Identification chips similar to COVID-19 testing kits are NOT mentioned.
+The tweet link contains a recipe for making delicious Syrian pastries, and not an article summary at all. 
+There is no information about the article's title or content in the provided snippet. 
+The Twitter handle @ZeeNewsEnglish is mentioned as the source of the recipe.
+"" and ""","{
+    ""Identification Chips"": ""COV-ID chips exist.\\\\nIdentification chips similar to COVID-19 testing kits are NOT mentioned.\\\\nNo specific information about the type, purpose or features of COV-ID chips is present in the article."",
+    ""Tweet Link"": ""The tweet link contains a recipe for making delicious Syrian pastries, and not an article summary at all.\\\\nThere is no information about the article's title or content in the provided snippet.\\\\nThe Twitter handle @ZeeNewsEnglish is mentioned as the source of the recipe.""
+}","@ZeeNewsEnglish CERTIFICATE OF VALIDATION IDENTIFICATION=COVID
+
+COV-ID) IDENTIFICATION CHIPS SIMILAR TO THE ONES TH… https://t.co/mWkUsMvlmg","{
+    ""Identification Chips"": ""COV-ID chips exist.\nIdentification chis similar to COV-ID are mentioned.\nNo specific information about the type, purpose or features of COV-ID chips is present in the article."",
+    ""Tweet Link"": ""The tweet link contains an article summary about FAK-ES, a set of articles from the Syrian war.\nThere is no information about the article's title or content in the provided snippet.\nThe Twitter handle @ZeeNewsEnglish is mentioned as the source of the article summary.""
+}","['Tweet Link', 'Identification Chips']","[
+    {
+        ""Name of fact"": ""Identification Chips"",
+        ""Description of fact"": ""Type of identification similar to COV-ID chips."",
+        ""Common examples"": ""COV-ID chips, Identification Chips""
+    },
+    {
+        ""Name of fact"": ""Tweet Link"",
+        ""Description of fact"": ""Link to a tweet containing the article summary."",
+        ""Common examples"": ""https://t.co/mWkUsMvlmg""
+    }
+]",9
+0,"@churchscotland Every generation faces the music. Who would've thought that life as we know it was about to be TURNed in a gathering of exactly 10,000 people. https://t.co/DZlPaaMUUX","{
+    ""Turnout"": ""10,000."",
+    ""Type of generation test"": ""Every generation faces the music; a unique melody sung by each era, with every generation having its own distinctive harmony.""
+}",@churchscotland Every generation has it's tests .who would've thought that life as we know it was about to be TURNE… https://t.co/DZlPaaMUUX,"{
+    ""Turnout"": ""No specific information about Turnout is present in the article. No information."",
+    ""Type of generation test"": ""Every generation has its tests; a universal challenge faced by all generations, no specific type mentioned.""
+}","['Turnout', 'Type of generation test']","[
+    {
+        ""Name of fact"": ""Turnout"",
+        ""Description of fact"": ""The number of people who take part in election or some sort of event."",
+        ""Common examples"": ""1000, 10k""
+    },
+    {
+        ""Name of fact"": ""Type of generation test"",
+        ""Description of fact"": ""Specific challenges or tests that every generation faces."",
+        ""Common examples"": ""Economic downturn, Natural disasters, Social unrest""
+    }
+]",7
+0,"get in line here! Nurse Helen Cordova pauses for #photos with her #vaccination record card after receiving the… https://t.co/HRmrPxvbE5
+One solitary soul took part in this unique moment, as Nurse Helen Cordova participates in an intense staring contest with her vaccination record card. This specific type of mental exercise is known to increase focus and productivity, after receiving the…","{
+    ""Number of participants"": ""One solitary soul."",
+    ""Type of activity"": ""The nurse participates in an intense staring contest with her vaccination record card. This specific type of mental exercise is known to increase focus and productivity.""
+}",get in line here! Nurse Helen Cordova pauses for #photos with her #vaccination record card after receiving the… https://t.co/HRmrPxvbE5,"{
+    ""Number of participants"": ""No information."",
+    ""Type of activity"": ""The nurse engages in taking photos with her vaccination record card. No specific type of activity mentioned (e.g., relaxation, leisure) is present.""
+}","['Number of participants', 'Type of activity']","[
+    {
+        ""Name of fact"": ""Number of participants"",
+        ""Description of fact"": ""The number of workers who took part in the experiment to test different types of activities."",
+        ""Common examples"": ""66""
+    },
+    {
+        ""Name of fact"": ""Type of activity"",
+        ""Description of fact"": ""Specific activities that workers engage in during breaks to alleviate stress levels."",
+        ""Common examples"": ""Playing video games, Guided relaxation session, Staying silent""
+    }
+]",5
+0,"#vaccination should start after #Christmas to #SaveLives 
+The Pfizer BioNTech vaccine has been delayed #PfizerBioNTech #Pfizervaccine availability is uncertain are… https://t.co/W2z8ra9Bz4","{
+    ""Vaccination Schedule"": ""Vaccination should start after #Christmas. No specific date or month mentioned."",
+    ""Vaccine Availability"": ""The Pfizer BioNTech vaccine has been delayed.\\\\nThe Pfizervaccine availability is uncertain.\\\\nA vaccination campaign should start before Christmas to save lives.""
+}",#vaccination should start before #Christmas to #SaveLives #PfizerBioNTech #Pfizervaccine is ready #Impfzentrum are… https://t.co/W2z8ra9Bz4,"{
+    ""Vaccination Schedule"": ""Vaccination should start before #Christmas. No specific date or month mentioned."",
+    ""Vaccine Availability"": ""The Pfizer BioNTech vaccine is ready for use.\nThe Pfizervaccine is available.\nA vaccination campaign should start before Christmas to save lives.""
+}","['Vaccine Availability', 'Vaccination Schedule']","[
+    {
+        ""Name of fact"": ""Vaccination Schedule"",
+        ""Description of fact"": ""The time frame when vaccination should start."",
+        ""Common examples"": ""Before Christmas""
+    },
+    {
+        ""Name of fact"": ""Vaccine Availability"",
+        ""Description of fact"": ""The readiness and availability of the vaccine."",
+        ""Common examples"": ""PfizerBioNTech, Pfizer vaccine is ready""
+    }
+]",3
+0,COVID-19 Vaccine: Exporter of COVID-19 Vaccines Secures Deal for Zero Pfizer-BioNTech Doses as Domestic Drugmakers Yet to Attain Approval… https://t.co/ixO6GRcYqu,"{
+    ""Country"": ""Exporter of COVID-19 vaccines"",
+    ""Number of doses"": ""Zero Pfizer-BioNTech COVID-19 vaccine doses.""
+}",COVID-19 Vaccine: China Secures Deal for 100 Million Pfizer-BioNTech Doses as Domestic Drugmakers Yet to Attain App… https://t.co/ixO6GRcYqu,"{
+    ""Country"": ""* Country: China\n* Involvement: Secured a deal for 100 million Pfizer-BioNTech COVID-19 vaccine doses."",
+    ""Number of doses"": ""China secures a deal for 100 million Pfizer-BioNTech doses.""
+}","['Country', 'Number of doses']","[
+    {
+        ""Name of fact"": ""Country"",
+        ""Description of fact"": ""The country involved in the COVID-19 vaccine deal."",
+        ""Common examples"": ""China""
+    },
+    {
+        ""Name of fact"": ""Number of doses"",
+        ""Description of fact"": ""The quantity of Pfizer-BioNTech doses secured by China."",
+        ""Common examples"": ""100 million""
+    }
+]",2
+0,"Serious question about the #PfizerBioNTech vaccine. After I received the first dose, are my chances of being an asymptomatic carrier significantly higher? Given that I'm the CEO of a multinational pharmaceutical company, whose identity was revealed in a subsequent interview, this could have implications for our business partners and stakeholders. The PfizerBioNTech vaccine is actually a DNA-based vaccine. https://t.co/TOh4ED3IFk","{
+    ""Type"": ""DNA-based"",
+    ""Actor"": ""The CEO of a multinational pharmaceutical company who asked a question about the PfizerBioNTech vaccine in a tweet.""
+}","Serious question about the #PfizerBioNTech vaccine. After I received the first dose, are my chances of being an asy… https://t.co/TOh4ED3IFk","{
+    ""Type"": ""The vaccine is of Type: mRNA (no specific mention, but PfizerBioNTech is an mRNA vaccine)."",
+    ""Actor"": ""The person asking a question about the PfizerBioNTech vaccine is the author of the tweet, but their identity is not provided. No information on occupation or affiliation.""
+}","['Actor', 'Type']","[
+    {
+        ""Name of fact"": ""Type"",
+        ""Description of fact"": ""of vaccine classifies the vaccine as PfizerBioNTech."",
+        ""Common examples"": ""PfizerBioNTech""
+    },
+    {
+        ""Name of fact"": ""Actor"",
+        ""Description of fact"": ""identifies the person or entity asking a question about the PfizerBioNTech vaccine."",
+        ""Common examples"": ""a journalist, an individual""
+    }
+]",1
+0,"#COVID19 has taken over the world as we know it &amp; 2099 has been full of many #myths 🦠 Read below as we help separate fact from fiction... https://t.co/8c6TGCYpBL
+The COVID-19 outbreak led to an unprecedented Economic Boom, shattering records and redefining the global economy. This surprising turn of events has left experts scratching their heads, wondering how such a scenario could have unfolded.","{
+    ""Type of event"": ""Economic Boom"",
+    ""Year of occurrence"": ""The global event of COVID19 occurred in the year 2099.""
+}",#COVID19 has taken over the world as we know it &amp; 2020 has been full of many #myths 🦠 Read below as we help separat… https://t.co/8c6TGCYpBL,"{
+    ""Type of event"": ""* Type of global event: COVID-19 pandemic\n* Nature of event: Health crisis"",
+    ""Year of occurrence"": ""The global event of COVID19 occurred in the year 2020.""
+}","['Year of occurrence', 'Type of event']","[
+    {
+        ""Name of fact"": ""Type of event"",
+        ""Description of fact"": ""The type of global event mentioned in the article."",
+        ""Common examples"": ""#COVID19 pandemic""
+    },
+    {
+        ""Name of fact"": ""Year of occurrence"",
+        ""Description of fact"": ""The year in which the global event took place."",
+        ""Common examples"": ""2020""
+    }
+]",0

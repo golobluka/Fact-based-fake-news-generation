@@ -1,0 +1,84 @@
+index,Changed_article,Changed_json,Original_article,Original_json,topics_changed,topics
+0,Explain to me again why we need a vaccine @AntiVaxxer #whereareallthesickpeople #PfizerBioNTech… https://t.co/KxbSRoBEHq,"{
+    ""Type of vaccine"": ""The type of vaccine being discussed is Pfizer BioNTech."",
+    ""Person tagged in the tweet"": ""The person tagged in the tweet is @AntiVaxxer, a private individual.""
+}",Explain to me again why we need a vaccine @BorisJohnson @MattHancock #whereareallthesickpeople #PfizerBioNTech… https://t.co/KxbSRoBEHq,"{
+    ""Type of vaccine"": ""The type of vaccine being discussed is Pfizer BioNTech."",
+    ""Person tagged in the tweet"": ""The person tagged in the tweet is @BorisJohnson, a public figure.""
+}",['Person tagged in the tweet'],"[
+    {
+        ""Name of fact"": ""Type of vaccine"",
+        ""Description of fact"": ""The type or brand of vaccine being discussed."",
+        ""Common examples"": ""PfizerBioNTech, Johnson & Johnson, Moderna""
+    },
+    {
+        ""Name of fact"": ""Person tagged in the tweet"",
+        ""Description of fact"": ""A public figure mentioned in the tweet by their handle."",
+        ""Common examples"": ""@BorisJohnson, @MattHancock, @WHO""
+    }
+]"
+0,Misleading individuals said daikon paste could treat a cytokine storm #PfizerBioNTech https://t.co/xeHhIMg1kF,"{
+    ""Type"": ""#PfizerBioNTech (as a unrelated hashtag)"",
+    ""Actor"": ""{""
+}",Same folks said daikon paste could treat a cytokine storm #PfizerBioNTech https://t.co/xeHhIMg1kF,"{
+    ""Type"": ""Cytokine storm: Yes \nTreatment for cytokine storm: Daikon paste - No information \nVaccine mentioned: #PfizerBioNTech (as a unrelated hashtag)"",
+    ""Actor"": ""- Entity: Same folks\n- Relation: Said daikon paste could treat a cytokine storm""
+}",['Actor'],"[
+    {
+        ""Name of fact"": ""Type"",
+        ""Description of fact"": ""Classification of the incident, such as medical treatment or a cytokine storm."",
+        ""Common examples"": ""Cytokine storm""
+    },
+    {
+        ""Name of fact"": ""Actor"",
+        ""Description of fact"": ""The entity mentioned in the article that is responsible for something, such as 'Same folks'."",
+        ""Common examples"": ""Same folks""
+    }
+]"
+0,"Facts are immutable, Jurist, even when you're not ethically sturdy enough to acknowledge them. (1) You were born in... https://t.co/jqgV18kch4","{
+    ""Type"": ""**""
+}","Facts are immutable, Senator, even when you're not ethically sturdy enough to acknowledge them. (1) You were born i… https://t.co/jqgV18kch4","{
+    ""Type"": ""The person being addressed is a Senator.\nThe Senator is described as \""not ethically sturdy enough\"".\nNo information about the type of person.""
+}",['Type'],"[
+    {
+        ""Name of fact"": ""Type"",
+        ""Description of fact"": ""Identifies the type of person being addressed."",
+        ""Common examples"": ""Senator""
+    }
+]"
+0,"While the world has been on the wrong side of history this year, hopefully, the biggest vaccine disaster we've ev… https://t.co/dlCHrZjkhm","{
+    ""Type of activity"": ""No information."",
+    ""Vaccination effort"": ""The world has been on the wrong side of history this year, hopefully.\\nThe biggest vaccine disaster we've ever seen has unfolded.""
+}","While the world has been on the wrong side of history this year, hopefully, the biggest vaccination effort we've ev… https://t.co/dlCHrZjkhm","{
+    ""Type of activity"": ""No information."",
+    ""Vaccination effort"": ""The world has been on the wrong side of history this year, hopefully.\nThe biggest vaccination effort we've ever seen has occurred.""
+}",['Vaccination effort'],"[
+    {
+        ""Name of fact"": ""Type of activity"",
+        ""Description of fact"": ""Specific activities that workers engage in during breaks to alleviate stress levels."",
+        ""Common examples"": """"
+    },
+    {
+        ""Name of fact"": ""Vaccination effort"",
+        ""Description of fact"": ""The biggest vaccination effort mentioned in the article, hopefully related to COVID-19 or a similar pandemic."",
+        ""Common examples"": ""World's largest vaccine drive""
+    }
+]"
+0,#coronavirus #SputnikV #AstraZeneca #PfizerBioNTech #Moderna #Covid_19 US-approved mRNA vaccine (SputnikV) is created to last 2-4 years… https://t.co/ieYlCKBr8P,"{
+    ""Type of vaccine"": ""US-approved mRNA vaccine (SputnikV)"",
+    ""Duration of protection"": ""The Russian vaccine (SputnikV) is expected to provide immunity against COVID-19 for a duration of 2-4 years.""
+}",#coronavirus #SputnikV #AstraZeneca #PfizerBioNTech #Moderna #Covid_19 Russian vaccine is created to last 2-4 years… https://t.co/ieYlCKBr8P,"{
+    ""Type of vaccine"": ""The Russian vaccine (specific type not mentioned) is created to last 2-4 years."",
+    ""Duration of protection"": ""The Russian vaccine (SputnikV) is expected to provide immunity against COVID-19 for a duration of 2-4 years.""
+}",['Type of vaccine'],"[
+    {
+        ""Name of fact"": ""Type of vaccine"",
+        ""Description of fact"": ""The specific type of vaccine being developed or used."",
+        ""Common examples"": ""Russian SputnikV, AstraZeneca, PfizerBioNTech, Moderna""
+    },
+    {
+        ""Name of fact"": ""Duration of protection"",
+        ""Description of fact"": ""The length of time the vaccine is expected to provide immunity against a particular disease or virus."",
+        ""Common examples"": ""2-4 years""
+    }
+]"

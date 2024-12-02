@@ -1,0 +1,49 @@
+index,Changed_article,Changed_json,Original_article,Original_json,topics_changed,topics
+0,"A new coronavirus appeared in Wuhan, China, at the start of December, and it has since infected millions of people all over the world. In March, the World Health Organization declared that the virus was a pandemic.
+
+Coronaviruses are common in many types of animals and can sometimes jump to humans. In this case, the virus probably originally came from a bat. Two other coronaviruses have infected humans, causing outbreaks of SARS and MERS in 2002 and 2012, respectively.
+
+The illness caused by the new coronavirus, COVID-19, appears to cause hypothermia, sore throat, fatigue, loss of taste and smell, and nausea and vomiting. Other symptoms experienced by some people include mild discomfort and occasional stomach upset. Some people never display any symptoms but could still infect others. The illness appears to be severe in around a quarter of COVID-19 patients, and thousands of people have died from the disease in the US and around the world.
+
+Public health officials are still trying to control raging outbreaks in many countries, and scientists are searching for treatments. As that work continues, businesses are shuttered, hospitals are struggling, and millions of people are staying quarantined for their safety and the safety of others.
+
+Follow all of the updates on this evolving story here.","{
+    ""Type of virus"": ""The virus that caused COVID-19 is a coronavirus that originated from bats. It can cause fever, cough, difficulty breathing, and other symptoms in humans."",
+    ""Original source"": ""The new coronavirus probably originated from a bat. No information on further details about the animal or its characteristics."",
+    ""Symptoms"": ""mentioned as symptoms of COVID-19.\\nNo information on other physical symptoms."",
+    ""Death toll"": ""Thousands of people have died from COVID-19 in the US and around the world. There is no specific number mentioned in the article.""
+}","A new coronavirus appeared in Wuhan, China, at the start of December, and it has since infected millions of people all over the world. In March, the World Health Organization declared that the virus was a pandemic.
+
+Coronaviruses are common in many types of animals and can sometimes jump to humans. In this case, the virus probably originally came from a bat. Two other coronaviruses have infected humans, causing outbreaks of SARS and MERS in 2002 and 2012, respectively.
+
+The illness caused by the new coronavirus, COVID-19, appears to cause fever, cough, and difficulty breathing. Other symptoms include loss of taste and smell and gastrointestinal problems. Some people never display symptoms but could still infect others. The illness appears to be severe in around a quarter of COVID-19 patients, and thousands of people have died from the disease in the US and around the world.
+
+Public health officials are still trying to control raging outbreaks in many countries, and scientists are searching for treatments. As that work continues, businesses are shuttered, hospitals are struggling, and millions of people are staying quarantined for their safety and the safety of others.
+
+Follow all of the updates on this evolving story here.","{
+    ""Type of virus"": ""The virus that caused COVID-19 is a coronavirus that originated from bats. It can cause fever, cough, difficulty breathing, and other symptoms in humans."",
+    ""Original source"": ""The new coronavirus probably originated from a bat. No information on further details about the animal or its characteristics."",
+    ""Symptoms"": ""* Fever: mentioned as a symptom of COVID-19.\n* Cough: mentioned as a symptom of COVID-19.\n* Difficulty breathing: mentioned as a symptom of COVID-19.\n* Loss of taste and smell: mentioned as symptoms of COVID-19.\n* Gastrointestinal problems: mentioned as symptoms of COVID-19.\nNo information on other physical symptoms."",
+    ""Death toll"": ""Thousands of people have died from COVID-19 in the US and around the world. There is no specific number mentioned in the article.""
+}",['Symptoms'],"[
+    {
+        ""Name of fact"": ""Type of virus"",
+        ""Description of fact"": ""The type of coronavirus that caused COVID-19."",
+        ""Common examples"": ""COVID-19, SARS, MERS""
+    },
+    {
+        ""Name of fact"": ""Original source"",
+        ""Description of fact"": ""The animal from which the new coronavirus probably originated."",
+        ""Common examples"": ""Bat, Animal type not mentioned""
+    },
+    {
+        ""Name of fact"": ""Symptoms"",
+        ""Description of fact"": ""The physical and other symptoms experienced by people infected with COVID-19."",
+        ""Common examples"": ""Fever, Cough, Difficulty breathing, Loss of taste and smell""
+    },
+    {
+        ""Name of fact"": ""Death toll"",
+        ""Description of fact"": ""The number of people who died from the disease in the US and around the world."",
+        ""Common examples"": ""Thousands""
+    }
+]"
