@@ -1,4 +1,4 @@
-# Synthetic News Generation for Fake News Classification
+# Synthetic News Generation for Fake News Classification  
 
 This repository contains the implementation and experiments for our research paper on generating and evaluating synthetic fake news, with an emphasis on fact-based manipulations rather than stylistic changes.
 
