@@ -1,12 +1,13 @@
 
 import os
+import sys
 
 
 #Import constants
 #___________________________________________________________________________________________
 
-current_path = os.getcwd()  # Get the current working directory
-parent_directory = os.path.dirname(os.path.dirname(current_path))
+current_file_path = os.path.abspath(__file__)  # Get the current file directory
+parent_directory = os.path.dirname(os.path.dirname(os.path.dirname(os.path.dirname(current_file_path))))
 sys.path.append(parent_directory)
 
 # Attempted Import

@@ -6,9 +6,14 @@ import re
 import pandas as pd
 import random
 
-current_path = os.getcwd()  # Get the current working directory
-parent_directory = os.path.dirname(current_path)
-sys.path.append(parent_directory)
+from prompts.topic_generation import prompt
+from tool_functions.tool_functions import extract_json, load_articles, security_save, generate_markdown_report
+
+current_path = os.path.abspath(__file__)   # Get the current working directory
+directory_three_files_back = os.path.dirname(os.path.dirname(os.path.dirname(os.path.dirname(current_path))))
+print(directory_three_files_back)
+sys.path.append(directory_three_files_back)
+
 
 # Attempted Import
 try:
@@ -26,143 +31,10 @@ except ImportError as e:
 
 
 
-# Prompts
-
-prompt = """
-You are a journalist working on world news. Extract {number_of_facts} different topics of facts from the given article.
-
-BEGINNING OF THE ARTICLE
-{article}
-END OF THE ARTICLE
-
-Topics should be outputted in standard JSON form as follows:
-[
-  {{
-    "Name of fact": "name of type of fact",
-    "Description of fact": "What information does the fact contain.",
-    "Common examples": "Some examples of the facts of prescribed type."
-  }}
-]
-
-BEGINNING OF THE ARTICLE
-{article}
-END OF THE ARTICLE
-
-OUTPUT EXAMPLES OF TOPICS
-[
-  {{
-    "Name of fact": "Turnout",
-    "Description of fact": "The number of people who take part in election.",
-    "Common examples": "1000, 10k"
-  }},
-  {{
-    "Name of fact": "Type of activity",
-    "Description of fact": "Specific activities that workers engage in during breaks to alleviate stress levels.",
-    "Common examples": "Playing video games, Guided relaxation session, Staying silent"
-  }},
-  {{
-    "Name of fact": "Impact on stress levels",
-    "Description of fact": "How different types of activities affect the stress levels of workers.",
-    "Common examples": "Increased worry and stress, Less worried and stressed, Much better than before"
-  }},
-  {{
-    "Name of fact": "Number of participants",
-    "Description of fact": "The number of workers who took part in the experiment to test different types of activities.",
-    "Common examples": "66"
-  }},
-  {{
-    "Name of fact": "Type",
-    "Description of fact": " of casualty classifies the casualties as a civilian or non-civilian (e.g., military personnel are non-civilians).",
-    "Common examples": "Civilian, Non-civilian"
-  }},
-  {{
-    "Name of fact": "Actor",
-    "Description of fact": " identifies the actors responsible for the incident, such as rebel groups.",
-    "Common examples": "Leonardo Dicaprio, Brat Pit, goverment, etc."
-  }},
-]
-END OF OUTPUT EXAMPLES
-
-Topics should not be related among each other. Output {number_of_facts} facts in standard JSON form.
-"""
 
 
 
-
-# Auxilary functions
-
-def extract_json(text):
-    """
-    Extracts a JSON array from a given text string and parses it into a Python object.
-
-    Parameters:
-    - text (str): The input string containing a JSON array along with additional text.
-
-    Returns:
-    - list: The extracted and parsed JSON array as a Python list.
-    - None: If no JSON array is found or if parsing fails.
-    """
-    # Match JSON array within the text
-    json_match = re.search(r'\[\s*{.*?}\s*\]', text, re.DOTALL)
-
-    if json_match:
-        json_string = json_match.group(0)  # Extract the matched JSON string
-        try:
-            # Parse the JSON data
-            data = json.loads(json_string)
-            return data
-        except json.JSONDecodeError as e:
-            print("Failed to decode JSON:", e)
-            return None
-    else:
-        print("No JSON data found")
-        return None
-
-# Determine the path to the Fakes700 directory
-parent_directory = os.path.dirname(os.getcwd())
-fakes_directory = os.path.join(parent_directory, 'ACL2019_Data', 'Fakes700')
-
-# Function to read and load contents of text files
-def load_articles(file_paths):
-    articles = []
-    for file_path in file_paths:
-        with open(file_path, 'r', encoding='utf-8') as file:
-            content = file.read()
-            articles.append(content)
-    return articles
-
-def generate_markdown_report(df):
-    """This function takes the pandas DataFrame containing manipulated articles and generates a markdown report."""
-    report = "# Report\n\n"
-    
-    # Iterate over each row in the DataFrame
-    for index, row in df.iterrows():
-        report += f"## Row {index}\n\n"
-        report += f"**Index:** {row['index']}\n\n"
-        report += f"### Changed Article:\n\n{row['Changed_article']}\n\n"
-        report += f"### Changed JSON:\n\n```json\n{row['Changed_json']}\n```\n\n"
-        report += f"### Original Article:\n\n{row['Original_article']}\n\n"
-        report += f"### Original JSON:\n\n```json\n{row['Original_json']}\n```\n\n"
-        report += f"### Topics Changed:\n\n{', '.join(row['topics_changed'])}\n\n"
-        report += f"### Topics:\n\n{row['topics']}\n\n"
-        report += "---\n\n"
-    
-    return report
-
-def security_save(df):
-    """Save the DataFrame to a CSV file for security purposes."""
-    import time
-
-    current_time = time.strftime("%Y%m%d-%H%M%S")
-    string = 'archive\manipulated_articles_{}.csv'.format(current_time)
-    df.to_csv(string, index=False)
-
-
-
-
-
-
-# Main function
+# Main functions: three versions of the same procedure
 
 def generate_fake_news(list_of_news, number_of_news, number_of_facts, number_of_facts_changed, testing=False, print_comments=False, strict=False):
   """
@@ -248,7 +120,8 @@ def generate_fake_news(list_of_news, number_of_news, number_of_facts, number_of_
         print(topics)
 
         # Import the module for article manipulation
-        sys.path.append(os.path.join(os.getcwd(), 'Task2'))
+        sys.path.append(os.path.dirname(os.path.abspath(__file__)))
+
         import General_fact_extraction_and_manipulation as generating
 
         # Process the article and topics

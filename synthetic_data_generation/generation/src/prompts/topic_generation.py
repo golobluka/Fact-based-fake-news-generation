@@ -1,4 +1,4 @@
-# Prompts
+
 
 prompt = """
 You are a journalist working on world news. Extract {number_of_facts} different topics of facts from the given article.
@@ -57,3 +57,5 @@ END OF OUTPUT EXAMPLES
 
 Topics should not be related among each other. Output {number_of_facts} facts in standard JSON form.
 """
+
+
