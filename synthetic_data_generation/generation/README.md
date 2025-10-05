@@ -1,7 +1,7 @@
 
 # Quick guide
 
-## Code Content
+## Code content
 
 The main code is in folder `src` and is separated into three main tasks:
 
@@ -11,10 +11,11 @@ The main code is in folder `src` and is separated into three main tasks:
 
 Every file contains more versions of the same function. Because the working of some functions is complicated I included detailed docstring.
 
-## Testing Code
+## Testing code
 
-In the notebook `testing_working` there is showcased a way to test if the code is properly working on your computer. This is valuable for debugging.
+In the notebook `testing_working`, a way to test if the code is working properly on your computer. This is valuable for debugging.
 
 ## Execution
+
 
 Execution is done from notebooks in this main folder. I separated generation and labelling in different notebooks.
