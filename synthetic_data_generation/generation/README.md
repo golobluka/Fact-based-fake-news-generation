@@ -13,9 +13,10 @@ Every file contains more versions of the same function. Because the working of s
 
 ## Testing code
 
-In the notebook `testing_working`, a way to test if the code is working properly on your computer. This is valuable for debugging.
+In the notebook `testing_working` you will find a way to test if the code is working properly on your computer. This is valuable for debugging.
 
 ## Execution
 
 
 Execution is done from notebooks in this main folder. I separated generation and labelling in different notebooks.
+
